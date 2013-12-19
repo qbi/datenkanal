@@ -1,0 +1,65 @@
+
+* Sicherheit von Webanwendungen
+
+** Literatur
+   - [[http://unixwiz.net/techtips/sql-injection.html][SQL Injection Attacks by Example ]]
+   - Christopher Kunz, Stefan Esser: PHP-Sicherheit:
+     PHP/MySQL-Webanwendungen sicher
+     programmieren. 3. Auflage. dpunkt.verlag, Heidelberg 2008, ISBN
+     978-3898-6453-55.
+
+** Shownotes
+   - [[https://de.wikipedia.org/wiki/Symmetrisches_Multiprozessorsystem][WP: Symmetrisches Multiprozessorsystem (SMP)]]
+   - [[https://perf.wiki.kernel.org/index.php/Main_Page][perf]]
+   - [[http://datenkanal.org/index.php?/archives/18-Interview-mit-Kernelentwicklern.html][Interview mit Kernelentwicklern]]
+   - [[https://www.owasp.org/index.php/Code_Injection][Code Injection]]
+   - [[https://www.owasp.org/index.php/Regular_expression_Denial_of_Service_-_ReDoS][ReDoS]]
+   - [[http://hauser-wenz.de/playground/papers/RegExInjection.pdf][RegExInjection (PDF-Datei)]]
+   - [[https://de.wikipedia.org/wiki/HTTP][WP: HTTP]]
+   - [[https://de.wikipedia.org/wiki/SQL-Injection][WP: SQL-Injection]]
+   - [[http://www.unixwiz.net/techtips/sql-injection.html][SQL Injection Attacks by Example]]
+   - [[http://security.stackexchange.com/questions/25684/how-can-i-explain-sql-injection-without-technical-jargon][How can I explain SQL injection without technical jargon?]]
+   - [[https://www.owasp.org/index.php/SQL_Injection][OWASP: SQL Injection]]
+   - [[https://de.wikipedia.org/wiki/SQL][WP: SQL]]
+   - [[https://de.wikipedia.org/wiki/Apostroph][WP: Apostroph]]
+   - [[http://www.codinghorror.com/blog/2012/04/speed-hashing.html][Speed Hashing]]
+   - [[http://hashcat.net/oclhashcat-plus/][Hashcat]]
+   - [[https://en.wikipedia.org/wiki/Crypt_(Unix)][WP: crypt]]
+   - [[http://www.cirt.net/nikto2][Nikto]]
+   - [[http://w3af.org/][w3af]]
+   - [[https://getfirebug.com/][Firebug]]
+   - [[http://heise.de/-875681][iX: Freie Datenbank-Firewall schützt PostgreSQL und MySQL]]
+   - [[https://modsecurity.org/][Apache ModSecurity]]
+   - [[https://www.owasp.org/index.php/Web_Application_Firewall][OWASP: Web Application Firewall (WAF)]]
+   - [[https://de.wikipedia.org/wiki/Prepared_Statement][WP: Prepared Statements]]
+   - [[http://php.net/manual/de/mysqli.quickstart.prepared-statements.php][PHP.net: Prepared Statements]]
+   - [[https://de.wikipedia.org/wiki/Gespeicherte_Prozedur][WP: Gespeicherte Prozedur (Stored Procedure)]]
+   - [[https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet][OWASP: SQL Injection Prevention Cheat Sheet]]
+   - [[https://blog.engineyard.com/2011/sql-server-10xs-faster-with-rails-3-1][SQL Server 10xs Faster with Rails 3.1]]
+   - [[https://de.wikipedia.org/wiki/Firesheep][WP: Firesheep]]
+   - [[http://codebutler.github.io/firesheep/][Firesheep]]
+   - [[https://www.eff.org/https-everywhere][HTTPS Everywhere]]
+   - [[https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security][WP: HTTP Strict Transport Security]]
+   - [[https://tools.ietf.org/html/rfc6797][RFC 6797 (HTTP Strict Transport Security)]]
+   - [[https://tools.ietf.org/html/rfc2817][RFC 2817 (Upgrading to TLS Within HTTP/1.1)]]
+   - [[https://www.owasp.org/index.php/Blind_SQL_Injection][OWASP: Blind SQL Injection]]
+   - [[http://technet.microsoft.com/en-us/library/cc512676.aspx][Time-Based Blind SQL Injection with Heavy Queries]]
+   - [[http://adamcaudill.com/2012/08/12/neoinvoice-blind-sql-injection-cve-2012-3477/][NeoInvoice Blind SQL Injection (CVE-2012-3477)]]
+   - [[http://www.cryptography.com/timingattack/paper.html][Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and Other Systems]]
+   - [[http://www.keyczar.org/][Keyczar]]
+   - [[https://de.wikipedia.org/wiki/Seitenkanalattacke][WP: Seitenkanalangriff]]
+   - [[http://www.cl.cam.ac.uk/~sjm217/papers/ccs06hotornot.pdf][Hot or Not: Revealing Hidden Services by their Clock Skew (PDF)]]
+   - [[https://de.wikipedia.org/wiki/Cross-Site-Scripting][WP: Cross-Site-Scripting]]
+   - [[https://www.owasp.org/index.php/XSS][OWASP: XSS]]
+   - [[http://noscript.net/][NoScript.net]]
+   - [[http://kubieziel.de/blog/archives/1370-Schadcode-bei-ilse-aigner.de.html][Schadcode bei ilse-aigner.de?]]
+   - [[http://heise.de/-1833910][Heise: Darkleech infiziert reihenweise Apache-Server]]
+
+
+
+** Chapter
+   [00:00.00] Start
+   [00:11:49] Einleitung, Nachtrag zum GCC
+   [00:15:35] Electrolife von Trancendam
+   [01:34:18] SQL Injections
+   [01:39:44] Aren't you clever von Trancendam
