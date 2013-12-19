@@ -1,0 +1,66 @@
+
+* Erste Sendung des Datenkanal
+** Inhalte
+*** Einführung
+    - Was ist der Datenkanal? Was soll das Ganze?
+    - Vorstellung von Jörg und Jens
+    - Kurz Linux/FOSS anreißen, da wir doch in der Sendung einen
+      Schwerpunkt darauf legen werden.
+    - Ein bisschen Freifunk, Hackspace und LUG vorstellen
+    - Kontaktmöglichkeiten, grobe Erläuterungen von MUC, damit die
+      Leute schon mit uns in Kontakt treten können.
+    - Eventuell können wir auf den 28C3 eingehen und einige wichtige
+      Vorträge/Ereignisse kommentieren.
+
+
+*** 28C3
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4766.en.html][802.11 Packets in Packets]]
+      Leider nicht gesehen, soll aber sehr gut gewesen sein
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4828.en.html][Antiforensik]]
+      Netter Talk. zeigte, wie man diverse Forensiktools hacken kann.
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4746.en.html][Bitcoin]]
+      nicht gesehen, wäre für andere Sendung interessant
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4930.en.html][Black Ops of TCP/IP 2011]]
+      Dan ist recht guter Vortragender, hatte was zu Bitcoin und zu
+      Netzneutralität
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4916.en.html][BuggedPlanet]]
+      Wiki mit Infos zu Abhörfirmen
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4587.en.html][bup: git for Backups]]
+      Wäre für einen unserer Sendungen was
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4799.en.html][Can trains be hacked?]]
+      nicht gesehen, muss gut gewesen sein
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4781.en.html][Deceiving Authorship Detection]]
+      Kenne nur Talk aus Vorjahr
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4901.en.html][Der Staatstrojaner]]
+      Zusammenfassung zur ganzen Affäre
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4675.en.html][„Die Koalition setzt sich aber aktiv und ernsthaft dafür ein“]]
+      Sprachliches in der Politik
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4770.en.html][Don't scan, just ask]]
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4680.en.html][Effective Denial of Service attacks against web application
+      platforms]]
+      Wie man Hashtables kaputt macht
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4800.en.html][How governments have tried to block Tor]]
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4581.en.html][Taking control over the Tor network]]
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4876.en.html][Sachsen dreht frei]]
+    - [[http://events.ccc.de/congress/2011/Fahrplan/events/4848.en.html][The coming war on general computation]]
+      Angeblich besser als Keynote
+*** Aktuelles
+    Vier bis fünf wichtige Nachrichten aus der »Datenwelt«, die wir
+    kommentieren.
+*** Abkündigungen
+    Aus Jens' Sicht sollten wir so zwei bis drei Monate voraus schauen
+    und wichtige Events benennen. Eventuell kann [[http://www.grical.org/][Grical]] bei der
+    Auswahl helfen. Wenn wir auch auf überregionale Veranstaltungen
+    eingehen wollen, dann können wir auch http://lwn.net/Calendar/ und
+    http://lwn.net/Articles/471211/ nutzen.
+    - [[http://linux.conf.au/][linux.conf.au]] vom 16.--20. Januar in Brisbane
+    - Tag der Informatik an der Uni Jena am 29. Januar
+    - [[http://www.fosdem.org/2012/][FOSDEM]] am 4./5. Februar in Brüssel
+    - Chemnitzer Linux-Tage am 17./18. März
+    - Microtraining im Jentower mit Jens als Vortragendem
+    - Maschinenraum, Internet-Selbstgemacht: E-Mail, 2012-01-10 20:30 Uhr
+      Der Plan ist sich einmal anzusehen wie E-Mail funktioniert und
+      kleinen eigenen Mailserver mit Postfix und Dovecot aufzusetzen.
+** Musik
+   - [[http://www.jamendo.com/en/album/61436][For Tomorrow]] von Emerald Park
+   - [[http://www.jamendo.com/en/album/6339][Orgamilk]] von Fresh Body Shop
