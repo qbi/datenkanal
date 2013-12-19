@@ -1,0 +1,184 @@
+#+TITLE: Sendungsplanung für den Datenkanal 11
+
+* Aufmacher
+* Bitcoin
+  - Was ist Geld?
+    - Buch-, Bar-, elektronisches Geld
+    - Fiatgeld
+    - Geldsurrogate
+  - Was ist elektronisches Geld?
+    - Forderung, die auf Datenspeicher gespeichert ist, von
+      Unternehmen akzeptiert, gegen Geldbetrag ausgegeben
+    - Paysafecard, Paypal, e-gold
+    - E-Geld-Richtlinie der EU
+  - Welche Varianten gab es bisher?
+  - DigiCash, Ukash
+  - Was ist Bitcoin?
+    +dezentralisiertes elektronisches Geld
+  - Wofür kann man Bitcoin nutzen?
+    + Silkroad, Bitcoin Vending Machine
+*** Bitcoin
+    Links:
+    - [[http://www.wired.com/threatlevel/2011/12/bitcoins-comeback/][Bitcoin’s Comeback: Should Western Union Be Afraid?]]
+    - [[http://bitcoinmedia.com/bitcoin-replaces-western-union-thats-all/][Bitcoin replaces Western Union, that’s all]]
+    - [[https://www.eff.org/deeplinks/2011/06/eff-and-bitcoin][EFF and Bitcoin]]
+    - [[http://arstechnica.com/tech-policy/news/2011/10/bitcoin-implodes-down-more-than-90-percent-from-june-peak.ars][Bitcoin implodes, falls more than 90 percent from June peak]]
+    - [[http://arstechnica.com/tech-policy/news/2011/06/bitcoin-price-plummets-on-compromised-exchange.ars][Bitcoin prices plummet on hacked exchange]]
+    - [[http://www.wired.com/magazine/2011/11/mf_bitcoin/all/1][The Rise and Fall of Bitcoin]]
+
+* Nachrichten
+- Tod des libata-Entwicklers Andre Hedrick [http://www.golem.de/news/linux-libata-entwickler-andre-hedrick-ist-tot-1207-93502.html]
+-- Auch auf Pro-Linux.de: http://www.pro-linux.de/news/1/18676/linux-kernel-entwickler-andre-hedrick-ist-tot.html
+-- Nachruf von Jeff Garzik: http://article.gmane.org/gmane.linux.ide/52517
+- Hauen und Stechen bei GNOME [http://www.pro-linux.de/news/1/18672/gnome-vor-schweren-zeiten.html]
+-- Blogeintrag von Benjamin Otte: http://www.pro-linux.de/news/1/18672/gnome-vor-schweren-zeiten.html
+-- Älterer Eintrag zum Rant von Linus Torvalds: http://digitizor.com/2011/08/04/linus-torvalds-ditches-gnome-for-xfce/
+-- Fedora 18 wird den GNOME-Fork MATE packetieren: http://www.h-online.com/open/news/item/Fedora-18-to-get-MATE-desktop-Samba-4-and-ownCloud-1655987.html
+- EFI/UEFI Gezanke über "Secure Boot"
+-- Kommentar auf Heise: http://www.heise.de/open/artikel/Linux-und-UEFI-Secure-Boot-1623602.html
+-- Fedora lässt von Microsoft signieren: http://www.heise.de/open/meldung/Linux-soll-Secure-Boot-lernen-1588163.html
+-- Zweistufiges Konzept von Canonical: http://www.heise.de/open/meldung/Ubuntu-bekommt-von-Microsoft-signierten-Loader-fuer-Secure-Boot-Systeme-1624326.html
+-- Einfachste Möglichkeit: "Secure Boot" abschalten
+- Valve kommt mit ihrem Linux-Port von STEAM vorwärts: http://arstechnica.com/gaming/2012/07/valve-announces-ubuntu-port-of-steam-source-engine-and-left-4-dead-2/
+-- Top-Manger sagt, Windows 8 ist eine Katastrophe und Antrieb für Linux-Engagement: http://arstechnica.com/gaming/2012/07/steams-newell-windows-8-catastrophe-driving-valve-to-embrace-linux/
+- Vorabversion vom Kernel 3.6: http://www.heise.de/open/meldung/Erste-Vorabversion-des-Linux-Kernels-3-6-1659349.html
+- Debian 7 "Wheezy" hat nach Freeze immer noch zuviele Bugs: http://www.h-online.com/open/news/item/Debian-Wheezy-still-has-many-critical-bugs-1655604.html
+- Glyn Moody fragt, wie sich sich OpenSource-Projekte finanzieren können und landet bei Kickstarter: http://www.h-online.com/open/features/How-can-we-pay-for-Free-Software-1650191.html
+
+* Termine
+- Hackspace Jena hat Räume und wird Mitte August einziehen. Letzte Unklarheiten zum Mietvertrag sind geklärt.
+- FrOSCon am 25./26. August [http://www.froscon.de/startseite/]
+
+* Musikplanung
+  - Marlonmetal schlug [[http://www.jamendo.com/de/artist/340202/mad-mav][Mad Mav]] vor.
+  - Weitere Stücke von 8-bit aus dem Album "Lagerfeuer"
+
+* Shownotes
+ - [[http://www.thueringen.de/datenschutz/][Thüringer Landesbeauftragten für den Datenschutz]]
+ - [[http://datenkanal.org/index.php?/archives/28-DK9-Thueringer-Datenschutzbeauftragter-ist-100-Tage-im-Amt.html][DK009: Thüringer Datenschutzbeauftragter ist 100 Tage im Amt]]
+ - [[http://datenkanal.org/index.php?/archives/31-DK10-Desktops-unter-Linux.html][DK10: Desktops unter Linux]]
+ - [[http://thomas-lotze.de/][Thomas Lotze]]
+ - [[https://de.wikipedia.org/wiki/Domain_Name_System][WP: DNS]]
+ - [[https://de.wikipedia.org/wiki/RSS][WP: RSS]]
+ - [[http://board.s9y.org/viewtopic.php?f=10&18687][S9Y-Forum:  Fehlerhafter Podcast-Feed]]
+ - [[https://de.wikipedia.org/wiki/Nginx][WP: nginx]]
+ - [[http://nginx.org/][nginx]]
+ - [[https://www.hackspace-jena.de/][Hackspace Jena]]
+ - [[http://lists.uvena.de/pipermail/hackspace-jena/2012-July/001986.html][Einladung zu Bring your own Schrott]]
+ - [[https://de.wikipedia.org/wiki/Computerized_Numerical_Control][WP: CNC-Maschine]]
+ - [[https://www.hackspace-jena.de/verein][Verein Hackspace Jena e.V.]]
+ - [[http://www.conrad.de/ce/de/product/192010/Conrad-emElektronik-Adventskalender-2010em][Weihnachtskalender von Conrad]]
+ - [[https://de.wikipedia.org/wiki/Blinkenlights_(Jargon)][WP: Blinkenlights]]
+ - [[https://de.wikipedia.org/wiki/Projekt_Blinkenlights][WP: Projekt Blinkenlights]]
+ - [[http://blinkenlights.net/][Projekt Blinkenlights]]
+ - [[https://de.wikipedia.org/wiki/Haus_des_Lehrers][WP: Haus des Lehrers]]
+ - [[https://de.wikipedia.org/wiki/Pong][WP: Pong]]
+ - [[https://de.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France][WP: Bibliothèque nationale de France]]
+ - [[http://www.japs-jena.de/][Jugend,- Aktions- und Projektwerkstatt Jena (JAPS)]]
+ - [[http://www.heise.de/ct/][c't]]
+ - [[http://datenkanal.org/index.php?/archives/21-DK6-Audio-unter-Linux.html][DK006: Audio unter Linux]]
+ - [[http://bitcoin.org/][Bitcoin]]
+ - [[https://de.wikipedia.org/wiki/Bitcoin][WP: Bitcoin]]
+ - [[http://www.weusecoins.com/][We use Coins]]
+ - [[https://de.wikipedia.org/wiki/Geld][WP: Geld]]
+ - [[https://de.wikipedia.org/wiki/Geldfunktion][WP: Geldfunktion]]
+ - [[https://de.wikipedia.org/wiki/Karl_Marx][WP: Karl Marx]]
+ - [[https://de.wikipedia.org/wiki/Das_Kapital][WP: Das Kapital]]
+ - [[https://de.wikipedia.org/wiki/Edelmetalle][WP: Edelmetalle]]
+ - [[https://de.wikipedia.org/wiki/Gold][WP: Gold]]
+ - [[https://de.wikipedia.org/wiki/Silber][WP: Silber]]
+ - [[https://de.wikipedia.org/wiki/Kurantm%C3%BCnze][WP: Kurantmünze]]
+ - [[http://de.wikipedia.org/wiki/Zinsverbot][WP: Zinsverbot]]
+ - [[http://de.wikipedia.org/wiki/Islamisches_Bankwesen][WP: Islamisches Bankwesen]]
+ - [[https://de.wikipedia.org/wiki/Geldmenge][WP: Geldmenge]]
+ - [[https://de.wikipedia.org/wiki/Bundesdruckerei][WP: Bundesdruckerei]]
+ - [[https://de.wikipedia.org/wiki/Deutsche_Bundesbank][WP: Deutsche Bundesbank]]
+ - [[https://de.wikipedia.org/wiki/Europ%C3%A4ische_Zentralbank][WP: Europäische Zentralbank]]
+ - [[https://de.wikipedia.org/wiki/Geldpolitik_der_Europ%C3%A4ischen_Zentralbank][WP: Geldpolitik der Europäischen Zentralbank]]
+ - [[https://de.wikipedia.org/wiki/Bargeld][WP: Bargeld]]
+ - [[https://de.wikipedia.org/wiki/Buchgeld][WP: Buchgeld]]
+ - [[http://blog.maschinenraum.tk/2012/07/15/bitcoin-vending-machine-exchange-euro-coins-for-bitcoin-wallets/][Bitcoin Vending Machine]]
+ - [[http://blog.maschinenraum.tk/][Blog des Maschinenraum in Weimar]]
+ - [[https://de.wikipedia.org/wiki/Sicherheitsmerkmale_von_Banknoten][WP: Sicherheitsmerkmale von Banknoten]]
+ - [[https://de.wikipedia.org/wiki/Eurobanknoten][WP: Eurobanknoten]]
+ - [[http://www.bundesbank.de/Navigation/DE/Kerngeschaeftsfelder/Bargeld/Falschgeld/falschgeld.html][Falschgeld]]
+ - [[https://de.wikipedia.org/wiki/EURion-Konstellation][WP: EURion-Konstellation]]
+ - [[https://de.wikipedia.org/wiki/Regiogeld][WP: Regiogeld]]
+ - [[https://de.wikipedia.org/wiki/Liste_der_Regionalgelder][WP: Liste der Regionalgelder]]
+ - [[https://de.wikipedia.org/wiki/Chiemgauer][WP: Chiemgauer]]
+ - [[http://www.chiemgauer.info/][Chiemgauer]]
+ - [[http://wirtschaftsring.reinstaedter-landmarkt.de/][Landmark]]
+ - [[https://de.wikipedia.org/wiki/Fiatgeld][WP: Fiatgeld]]
+ - [[https://de.wikipedia.org/wiki/Gaichatu][WP: Gaichatu]]
+ - [[https://de.wikipedia.org/wiki/Goldreserve][WP: Goldreserve]]
+ - [[https://de.wikipedia.org/wiki/Bretton-Woods-System][WP: Bretton-Woods-System]]
+ - [[http://de.wikipedia.org/wiki/Verordnung_(EG)_Nr._2257/94][WP: Verordnung (EG) Nr. 2257/94 (Bananen)]]
+ - [[https://de.wikipedia.org/wiki/Elektronisches_Geld][WP: Elektronisches Geld]]
+ - [[http://eur-lex.europa.eu/LexUriServ/site/de/oj/2000/l_275/l_27520001027de00390043.pdf][Richtlinie 2000/46 EG E-Geld-Richtlinie]]
+ - [[http://de.wikipedia.org/wiki/Paypal][WP: Paypal]]
+ - [[http://www.paysafecard.com/de/de-paysafecard/][Paysafecard]]
+ - [[http://de.wikipedia.org/wiki/Paysafecard][WP: Paysafecard]]
+ - [[http://jena.otz.de/web/lokal/leben/blaulicht/detail/-/specific/Tankstellenmitarbeiterin-bewahrt-Rentnerin-in-Jena-vor-Betrug-910927266][Tankstellenmitarbeiterin bewahrt Rentnerin in Jena vor Betrug]]
+ - [[http://www.anonym-surfen.de/][JondoNym]]
+ - [[https://de.wikipedia.org/wiki/Cypherpunk][WP: Cypherpunk]]
+ - [[http://de.wikipedia.org/wiki/Remailer][WP: Remailer]]
+ - [[https://de.wikipedia.org/wiki/David_Chaum][WP: David Chaum]]
+ - [[http://www.chaum.com/][Webseite von David Chaum]]
+ - [[http://www.mail-archive.com/cryptography@metzdowd.com/maillist.html][Mailingliste Cryptography]]
+ - [[https://de.bitcoin.it/wiki/Satoshi_Nakamoto][Satoshi Nakamoto]]
+ - [[http://www.mail-archive.com/cryptography%40metzdowd.com/msg09959.html][Bitcoin P2P e-cash paper von Satoshi Nakamoto]]
+ - [[http://www.bitcoin.org/bitcoin.pdf][Bitcoin: A Peer-to-Peer Electronic Cash System (PDF)]]
+ - [[http://bitcoincharts.com][Bitcoin Charts]]
+ - [[http://de.wikipedia.org/wiki/Data_Encryption_Standard][WP: Data Encryption Standard]]
+ - [[http://de.wikipedia.org/wiki/Lucifer_(Kryptographie)][WP: Lucifer]]
+ - [[http://de.wikipedia.org/wiki/Differentielle_Kryptoanalyse][WP: Differentielle Kryptoanalyse]]
+ - [[http://de.wikipedia.org/wiki/Horst_Feistel][WP: Horst Feistel]]
+ - [[http://de.wikipedia.org/wiki/Advanced_Encryption_Standard][WP: Advanced Encryption Standard]]
+ - [[http://falkvinge.net/2011/05/29/why-im-putting-all-my-savings-into-bitcoin/][Why I'm putting all my saving in Bitcoin von Rick Falkvinge]]
+ - [[https://de.wikipedia.org/wiki/T%C3%B6gr%C3%B6g][WP: Mongolische Tögrög]]
+ - [[http://www.wired.com/threatlevel/2011/06/silkroad/][Underground Website Lets You Buy Any Drug Imaginable]]
+ - [[http://arxiv.org/abs/1207.7139][Traveling the Silk Road: A measurement analysis of a large anonymous online marketplace]]
+ - [[https://www.torproject.org/][Tor Projekt]]
+ - [[http://i.imgur.com/Xq7ih.png][Screenshot des Hidden Wiki]]
+ - [[https://de.bitcoin.it/wiki/Handel][Seiten, die Bitcoin akzeptieren]]
+ - [[https://en.bitcoin.it/wiki/Alpaca][Geschichte der Alpaca-Socken]]
+ - [[https://de.wikipedia.org/wiki/Transaktionskosten][WP: Transaktionskosten]]
+ - [[http://blockexplorer.com/block/0000000000000810c48d4d5adf3a46cece1dc7409f6a016d7a54194f8666a6bf][Block 192137]]
+ - [[http://blockexplorer.com/][Blockexplorer]]
+ - [[https://de.bitcoin.it/wiki/Transaktion][Transaktion bei Bitcoin]]
+ - [[https://en.bitcoin.it/wiki/Transaction_Fee][Artikel im englischen Bitcoin-Wiki zu Transaktionsgebühren]]
+ - [[https://de.bitcoin.it/wiki/Bl%C3%B6cke][Blöcke im Bitcoin-Wiki]]
+ - [[https://de.bitcoin.it/wiki/Datei:Total_bitcoins_over_time_graph.png][Grafik der Bitcoins über die Zeit]]
+ - [[https://de.bitcoin.it/wiki/Protokoll-Spezifikation][Protokoll-Spezifikation von Bitcoin]]
+ - [[http://litecoin.org/][Litecoin]]
+ - [[http://events.ccc.de/congress/2011/Fahrplan/events/4746.en.html][Bitcoin - An Analysis auf dem 28C3]]
+ - [[http://media.ccc.de/browse/congress/2011/28c3-4746-en-bitcoin_an_analysis.html][Vortragsvideo zu dem Bitcoinvortrag auf dem 28C3]]
+ - [[https://de.wikipedia.org/wiki/Peer-to-Peer][WP: Peer-to-Peer]]
+ - [[https://en.bitcoin.it/wiki/Mining][Mining im engl. Bitcoin-Wiki]]
+ - [[https://en.bitcoin.it/wiki/Pooled_mining][Pooled Mining im engl. Bitcoin-Wiki]]
+ - [[http://blogs.computerworld.com/18335/bitcoin_miners_busted_police_confuse_bitcoin_power_usage_for_pot_farm][Bitcoin miners busted? Police confuse bitcoin power usage for pot farm]]
+ - [[https://de.wikipedia.org/wiki/Cannabis_als_Rauschmittel][WP: Cannabis als Rauschmittel]]
+ - [[https://de.wikipedia.org/wiki/Global_Processing_Unit][WP: Global Processing Unit]]
+ - [[https://en.bitcoin.it/wiki/Mining_hardware_comparison][Vergleich der Hardware zum Mining (engl.)]]
+ - [[http://gavinthink.blogspot.de/][Blog von Gavin Andresen]]
+ - [[http://twitter.com/gavinandresen/][Twitterkonto von Gavin Andresen]]
+ - [[https://de.wikipedia.org/wiki/Hashfunktion][WP: Hashfunktion]]
+ - [[https://de.wikipedia.org/wiki/Kryptologische_Hashfunktion][Kryptologische Hashfunktion]]
+ - [[https://de.wikipedia.org/wiki/Nonce][WP: Nonce]]
+ - [[https://de.wikipedia.org/wiki/Secure_Hash_Algorithm][WP: Secure Hash Algorithm (SHA)]]
+ - [[https://en.bitcoin.it/wiki/Proof_of_work][Proof of work (Beispiel zur Berechnung der Hashsumme]]
+ - [[http://research.zscaler.com/2011/08/bitcoin-mining-malware.html][Bitcoin mining malware]]
+ - [[http://www.virusbtn.com/news/2011/12_13.xml][Compromised websites used to mine bitcoins]]
+ - [[http://www.symantec.com/connect/blogs/all-your-bitcoins-are-ours][All your Bitcoins are ours…]]
+ - [[https://de.wikipedia.org/wiki/Base58][WP: Base58]]
+ - [[http://bitcoin.org/clients.html][Bitcoin-Clients]]
+ - [[https://de.bitcoin.it/wiki/Wallet][Geldbörse (Wallet)]]
+ - [[https://de.bitcoin.it/wiki/Sichere_deine_Geldb%C3%B6rse][Sichere deine Geldbörse]]
+ - [[http://code.google.com/p/bitcoin-wallet/][bitcoin-wallet (Wallet für Android)]]
+ - [[http://bitcoinstats.org/][Bitcoin Stats]]
+ - [[http://anonymity-in-bitcoin.blogspot.de/2011/07/bitcoin-is-not-anonymous.html][An Analysis of Anonymity in the Bitcoin System]]
+ - [[https://en.bitcoin.it/wiki/Anonymity][Bitcoin-Wiki zum Thema Anonymität]]
+ - [[https://de.wikipedia.org/wiki/ECash][WP: eCash]]
+ - [[https://en.bitcoin.it/wiki/How_to_set_up_a_secure_offline_savings_wallet][How to set up a secure offline savings wallet]]
+
+
