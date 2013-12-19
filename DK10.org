@@ -1,0 +1,13 @@
+
+* Desktops unter Linux
+Superpros (Jens und Jörg) stellen ihr 2000zeiliges Konfigfile für
+[[http://xmonad.org/][xmonad]] vor, Klaus sagt, das er KDE4 nutzt.
+
+** News
+   - [[http://www.pro-linux.de/news/1/18609/helsinki-umstieg-auf-libreoffice-zu-teuer.html][Pro Linux: Helsinki: Umstieg auf LibreOffice zu teuer]]
+   - [[http://linuxundich.de/de/news/xbmc-fur-android-steht-vor-der-tur/][Linux und ich: XBMC für Android steht vor der Tür]]
+   - Projekte mit dem RaspberryPi springen wie Pilze aus dem Boden
+   -- [[http://scottscreations.blogspot.de/2012/07/raspberry-pi-project.html][RaspberryPi als handlicher Emulator für alte Konsolen]]
+   -- [[https://www.youtube.com/watch?v=vw6dJDMmnlw&feature=youtu.be][Als Sofort-Übersetzer]]
+   -- [[https://twitter.com/cyberbobcity/status/228297191599534080/photo/1][Als portabler git-Server]]
+   - [[http://www.golem.de/news/jumpshot-windows-reparieren-unter-linux-1207-93239.html][Kickstarter-Projekt: Windows unter Linux reparieren]]
