@@ -1,0 +1,214 @@
+
+* Chemnitzer Linux-Tage 2012
+  Der fünfte Datenkanal wird die Chemnitzer Linux-Tage 2012 ein wenig
+  auswerten. Jens hat dazu einige Interviews geführt.
+
+** Inhalt
+** Musik
+** Termine
+
+** Shownotes
+*** Praxis Dr. Tux mit Jens Walter
+    - [[http://chemnitzer.linux-tage.de/2012/live/praxis/][Praxis Dr. Tux]]
+    - [[http://chemnitzer.linux-tage.de/2012/live/praxis/bedingungen][Teilnahmebedingungen]]
+    - [[https://de.wikipedia.org/wiki/Gew%C3%A4hrleistung][WP: Gewährleistung]]
+    - [[https://de.wikipedia.org/wiki/Partition_%28Informatik%29][WP: Partition]]
+    - [[https://de.wikipedia.org/wiki/Hardware][WP: Hardware]]
+    - [[https://de.wikipedia.org/wiki/Dockingstation][WP: Dockingstation]]
+    - [[http://wiki.ubuntuusers.de/WLAN][WLAN im Wiki der Ubuntuusers]]
+    - [[http://www.ubuntu.com/][Ubuntu]]
+    - [[https://de.wikipedia.org/wiki/NTFS][WP: NTFS]]
+
+
+*** Kinderparadies mit Eva Schirmer
+    - [[http://chemnitzer.linux-tage.de/2012/service/kinder][Kinderparadies]]
+    - [[https://de.wikipedia.org/wiki/B%C3%BCgelperlen][WP: Bügelperlen]]
+    - [[http://www.kindervereinigung-chemnitz.de/spielmobil.html][Spielmobil Chemnitz]]
+    - [[https://de.wikipedia.org/wiki/Brettspiel][WP: Brettspiele]]
+    - [[https://de.wikipedia.org/wiki/Geschicklichkeitsspiel][WP: Geschicklichkeitsspiele]]
+    - [[https://de.wikipedia.org/wiki/Jonglieren][WP: Jonglieren]]
+    - [[http://www.steko-spielgeraete.de/][Steko-Haus]]
+    - [[http://wiki.zum.de/Filzen][Filzen]]
+
+
+*** RetroNacht mit Katharina Einert
+    - [[http://chemnitzer.linux-tage.de/2012/addons/linux-nacht][Retro-Party]]
+    - [[http://chemnitzer.linux-tage.de/2012/service/netz][Netzwerk bei den Chemnitzer Linux-Tagen]]
+    - [[https://de.wikipedia.org/wiki/Chiptune][WP: Chiptune]]
+    - [[https://de.wikipedia.org/wiki/Kleincomputer_KC_85/2-4][WP: KC 85]]
+    - [[https://de.wikipedia.org/wiki/Kleincomputer_robotron_KC_87][WP: KC 87]]
+    - [[https://de.wikipedia.org/wiki/Spielekonsole][Spielkonsole]]
+    - [[https://de.wikipedia.org/wiki/Sega][WP: Sega]]
+    - [[https://de.wikipedia.org/wiki/Vectrex][WP: Vectrex]]
+    - [[https://de.wikipedia.org/wiki/Lightgun][WP: Lightgun]]
+    - [[https://de.wikipedia.org/wiki/Bomberman][WP: Bomberman]]
+
+
+*** Kerneldevelopers mit John Kacur, Jörg Rödel, Steven Rostedt,
+
+    - [[http://redhat.com/][Redhat]]
+    - [[https://de.wikipedia.org/wiki/Echtzeitsystem][WP: Echtzeitsystem]]
+    - [[https://de.wikipedia.org/wiki/Linux_(Kernel)][WP: Linux-Kernel]]
+    - [[https://rt.wiki.kernel.org/][Realtime Linux Kernel]]
+    - [[http://kernelnewbies.org/Linux_3.0][Linux 3.0]]
+    - [[http://amd.com/][AMD]]
+    - [[https://de.wikipedia.org/wiki/IOMMU][WP: IOMMU]]
+    - [[http://developer.amd.com/documentation/articles/pages/892006101.aspx][I/O Virtualization and AMD's IOMMU  ]]
+    - [[https://de.wikipedia.org/wiki/Virtualisierung_%28Informatik%29][WP: Virtualisierung]]
+    - [[http://www.linux-kvm.org/page/Main_Page][KVM]]
+    - [[https://de.wikipedia.org/wiki/Kernel-based_Virtual_Machine][WP: Kernel-based Virtual Machine]]
+    - [[https://de.wikipedia.org/wiki/Maintainer][WP: Maintainer]]
+    - [[https://lwn.net/Articles/322666/][ftrace]]
+    - [[https://de.wikipedia.org/wiki/Prozess-Scheduler][WP: Scheduler]]
+    - [[http://rostedt.homelinux.com/kernelshark/][Kernelshark]]
+    - [[https://de.wikipedia.org/wiki/Tracing][WP: Tracing]]
+    - [[https://de.wikipedia.org/wiki/GUI][WP: GUI]]
+    - [[http://chemnitzer.linux-tage.de/2012/vortraege/985][Workshop: Seeing inside the Linux Kernel with ftrace]]
+    - [[http://linux.conf.au/][linux.conf.au (LCA)]]
+    - [[http://linuxplumbersconf.org/][Linux Plumbers Conference]]
+    - [[http://chemnitzer.linux-tage.de/2012/vortraege/900][Vortrag: Lilypond – ein wenig Revolution muss sein]]
+    - [[https://de.wikipedia.org/wiki/Internet_Relay_Chat][WP: IRC]]
+    - [[https://de.wikipedia.org/wiki/Karl-Marx-Monument][WP: Karl-Marx-Monument]]
+
+
+*** DANTE-Stand mit Klaus Höppner
+    - [[https://de.wikipedia.org/wiki/TeX][WP: TeX]]
+    - [[https://de.wikipedia.org/wiki/LaTeX][WP: LaTeX]]
+    - [[https://de.wikipedia.org/wiki/Textsatz][WP: Textsatz]]
+    - [[https://de.wikipedia.org/wiki/Hypertext_Markup_Language][WP: HTML]]
+    - [[https://de.wikipedia.org/wiki/Logische_Auszeichnungen][WP: Logische Auszeichnung]]
+    - [[https://de.wikipedia.org/wiki/Compiler][WP: Compiler]]
+    - [[https://de.wikipedia.org/wiki/Portable_Document_Format][WP: PDF]]
+    - [[https://de.wikipedia.org/wiki/Inhaltsverzeichnis][WP: Inhaltsverzeichnis]]
+    - [[http://www.dante.de/][DANTE e.V.]]
+    - [[https://de.wikipedia.org/wiki/Magnetband][WP: Magnetband]]
+    - [[http://www.ctan.org/][CTAN]]
+    - [[https://bitbucket.org/rivanvx/beamer/wiki/Home][LaTeX Beamer]]
+    - [[https://de.wikipedia.org/wiki/Beamer_%28LaTeX%29][WP: Beamer (LaTeX)]]
+    - [[http://lilypond.org/][Lilypond]]
+    - [[https://de.wikipedia.org/wiki/Lilypond][WP: Lilypond]]
+    - [[https://de.wikipedia.org/wiki/Ukulele][WP: Ukulele]]
+
+
+*** Skolelinux mit Kurt Gramlich
+    - [[http://wiki.skolelinux.de/KurtGramlich][Kurt Gramlich]]
+    - [[http://wiki.debian.org/DebianEdu][Debian Edu]]
+    - [[http://skolelinux.de/][Skolelinux]]
+    - [[http://www.slx.no/][Skolelinux in Norwegen]]
+    - [[http://www.debian.org/][Debian]]
+    - [[www.linuxadvanced.at/][Linux Advanced]]
+    - [[http://live.debian.net/][Debian Live Project]]
+    - [[https://www.skolelinux.de/mailman/listinfo/user][Skolelinux Mailingliste]]
+    - [[https://de.wikipedia.org/wiki/Lernkurve][WP: Lernkurve]]
+    - [[http://www.debian.org/releases/stable/][Debian Squeeze]]
+    - [[https://de.wikipedia.org/wiki/OLPC_XO-1][WP: OLPC XO-1]]
+    - [[http://one.laptop.org/][One Laptop per Child]]
+    - [[http://heise.de/-832372][Heise Open Source: Uruguay: Ein XO-Laptop für jeden Grundschüler]]
+    - [[http://chemnitzer.linux-tage.de/2009/vortraege/detail.html?idx%3D159][Skolelinux Workstation mit LiveBackup]] (Vortrag von Kurt Gramlich)
+    - [[http://www.linuxtag.org/][Linuxtag in Berlin]]
+    - [[http://fsub.schule.de/][Freie Software und Bildung e.V.]]
+    - [[https://de.wikipedia.org/wiki/Live-System][WP: Live-CD]]
+    - [[http://wiki.laptop.org/go/Live_CD][OLPC-Live-CD]]
+    - [[http://wiki.skolelinux.de/LiveCDs][Skolelinux-Live-CD]]
+
+
+*** Orga mit Ralph Sontag
+    - Organisation
+    - Chilloutecken
+    - Flattr
+    - FSFE
+    - Linux Live
+    - Tagung nach CLT12 in Chemnitz
+    - Twitter-Nachricht mit Ende
+    - CfP
+
+
+
+*** Sendung
+    - [[http://chemnitzer.linux-tage.de/2012/][Chemnitzer Linux-Tage 2012]]
+    - [[https://de.wikipedia.org/wiki/Chemnitzer_Linux-Tage][WP: Chemnitzer Linux-Tage]]
+    - [[http://www.clug.de/][Chemnitzer Linux User Group]]
+    - [[http://www.tu-chemnitz.de/informatik/][Fakultät für Informatik]]
+    - [[http://www.in-chemnitz.de/][Individual Network Chemnitz e.V.]]
+    - [[http://in-berlin.de/news.html][IN Berlin]]
+    - [[http://www.linuxtag.org/2012/][Linuxtag]]
+    - [[http://chemnitzer.linux-tage.de/2012/service/uebernachtung][Übernachtungsmöglichkeiten auf den Chemnitzer Linux-Tagen]]
+    - [[http://chemnitzer.linux-tage.de/2012/live/plan][Standplan]]
+    - [[http://www.zabbix.com/][Zabbix]]
+    - [[https://de.wikipedia.org/wiki/Zabbix][WP: Zabbix]]
+    - [[http://www.cebit.de/][CeBIT]]
+    - [[http://chemnitzer.linux-tage.de/2012/vortraege/workshops][Workshops bei den Chemnitzer Linux-Tagen 2012]]
+    - [[https://de.wikipedia.org/wiki/Devotionalie][WP: Devotionalie]]
+    - [[http://chemnitzer.linux-tage.de/2012/live/praxis/][Praxis Dr. Tux bei den Chemnitzer Linux-Tagen 2012]]
+    - [[http://askubuntu.com/][Ask Ubuntu]]
+    - [[http://stackoverflow.com/][Stack Overflow]]
+    - [[http://area51.stackexchange.com/][Area51 bei Stackexchange]]
+    - [[http://avp.stackexchange.com/][Audio- und Videoproduktion bei Stackexchange]]
+    - [[http://askubuntu.com/users/236/qbi][qbi bei Ask Ubuntu]]
+    - [[http://meta.askubuntu.com/questions/2863/its-time-for-clean-up-week][Clean Up Week]]
+    - [[http://askubuntu.com/faq#close][Warum werden Fragen bei Ask Ubuntu geschlossen?]]
+    - [[http://lug-jena.de/][LUG Jena]]
+    - [[http://www.openstreetmap.org/][Open Street Map]]
+    - [[http://gimp.org/][Gimp]]
+    - [[http://www.dante.de/][Deutschsprachige Anwendervereinigung TeX e.V.]]
+    - [[https://de.wikipedia.org/wiki/Corporate_Identity][WP: Corporate Identity (CI)]]
+    - [[http://chemnitzer.linux-tage.de/2010/live/plan.html][Standplan von 2010]]
+    - [[http://www.lehmanns.de/][Lehmanns Media]]
+    - [[http://www.openoffice.org/de/][OpenOffice.org]]
+    - [[http://www.tug.org/texcollection/][TeX Collection DVD]]
+    - [[https://de.wikipedia.org/wiki/Akkordeon][WP: Akkordeon]]
+    - [[http://www.lilypond.org/][Lilypond]]
+    - [[http://chemnitzer.linux-tage.de/2012/vortraege/900][Vortrag »Lilypond – ein wenig Revolution muss sein« von David Kastrup]]
+    - [[https://de.wikipedia.org/wiki/Rot-Schwarz-Baum][WP: Rot-Schwarz-Baum]]
+    - [[https://de.wikipedia.org/wiki/2-3-4-Baum][WP: 2-3-4-Baum]]
+    - [[http://de.wikipedia.org/wiki/PSTricks][WP: PSTricks]]
+    - [[http://de.wikipedia.org/wiki/ArabTeX][WP: ArabTeX]]
+    - [[http://texample.net/][TeXample]]
+    - [[http://chemnitzer.linux-tage.de/2012/addons/linux-nacht][Retro-Nacht]]
+    - [[http://start.freifunk.net/][Freifunk]]
+    - [[http://chemnitzer.linux-tage.de/2012/vortraege/1065][Vortrag »Back to Unix: 100 POSIX-Kommandos statt 29.000 Packages«]]
+    - [[http://chemnitzer.linux-tage.de/2012/vortraege/1056][The 3.0-rt kernel]]
+    - [[http://chemnitzer.linux-tage.de/2012/vortraege/928][Vortrag »Aktuelle Entwicklungen beim Linux-Kernel«]]
+    - [[http://www.heise.de/open/kernel-log-3007.html][Kernel-Log bei Heise]]
+    - [[http://twitter.com/#!/kernellogauthor][@kernellogauthor]]
+    - [[http://chemnitzer.linux-tage.de/2012/vortraege/921][Vortrag »Performancemessungen und -optimierungen an GNU/LINUX-Systemen«]]
+    - [[https://de.wikipedia.org/wiki/Systemaufruf][WP: Systemaufruf]]
+    - [[http://linux.die.net/man/2/open][open(2)]]
+    - [[https://de.wikipedia.org/wiki/POSIX][WP: Portable Operating System Interface (POSIX)]]
+    - [[http://www.gnu.org/software/libc/][GNU libc]]
+    - [[https://en.wikipedia.org/wiki/GNU_C_Library][WP: GNU C Library]]
+    - [[http://chemnitzer.linux-tage.de/2012/vortraege/1030][Vortrag »Vom Piep zum Boot«]]
+    - [[https://de.wikipedia.org/wiki/Echtzeit][WP: Echtzeit]]
+    - [[https://de.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface][WP: Unified Extensible Firmware Interface (UEFI)]]
+    - [[http://chemnitzer.linux-tage.de/2012/vortraege/1072][Vortrag »FTrace und Kernelshark«]]
+    - [[https://twitter.com/joergroedel][@joergroedel]]
+    - [[http://chemnitzer.linux-tage.de/2012/vortraege/1071][Vortrag »Kernel Kwestioning«]]
+    - [[https://lkml.org/][Linux Kernel Mailing List]]
+    - [[http://lwn.net/][LWN.net]]
+    - [[http://chemnitzer.linux-tage.de/2012/vortraege/993][Vortrag »Die Entwicklung von Linux durch Testen neuer Kernel
+      unterstützen«]]
+    - [[https://bugzilla.kernel.org/][Kernel Bugtracking]]
+    - [[https://plus.google.com/111049168280159033135/posts/2R8pSEwbFfb][Nachricht von Greg Kroah-Hartmann bei Google+]]
+    - [[https://github.com/torvalds/linux/blob/master/scripts/get_maintainer.pl][get_maintainer.pl]]
+    - [[http://chemnitzer.linux-tage.de/2012/vortraege/1061][Vortrag »Developing Linux inside QEMU/KVM Virtual Machines«]]
+    - [[https://de.wikipedia.org/wiki/Virtualisierungssoftware][WP: Virtualisierungssoftware]]
+    - [[http://www.qemu.org/][qemu]]
+    - [[http://qemu-buch.de/][qemu-Buch]]
+    - [[http://libvirt.org/][libvirt]]
+    - [[http://bellard.org/][Fabrice Bellard]]
+    - [[http://de.wikipedia.org/wiki/Fabrice_Bellard][WP: Fabrice Bellard]]
+    - [[http://bellard.org/tcc/][tcc]]
+    - [[http://bellard.org/jslinux/][jslinux]]
+    - [[http://chemnitzer.linux-tage.de/2012/vortraege/1035][Vortrag »LinuxContainers in der Praxis«]]
+    - [[http://linsenraum.de/erkules/][Erkan Yanar]]
+    - [[http://lxc.sourceforge.net/][lxc Linux Containers]]
+    - [[http://uni-skripte.lug-jena.de/][Vorlesungsskripte an der Fakultät für Mathematik und Informatik]]
+    - [[http://www.lpi.org/][Linux Professional Institute]]
+    - [[http://chemnitzer.linux-tage.de/2012/addons/lpi][LPI-Prüfung bei den Chemnitzer Linux-Tagen 2012]]
+    - [[http://chemnitzer.linux-tage.de/2012/addons/pgp][Keysigningparty]]
+    - [[http://www.cacert.org/][CAcert]]
+    - [[http://www.bundesdruckerei.de/][Bundesdruckerei]]
+    - [[https://de.wikipedia.org/wiki/Elektronischer_Personalausweis#Der_elektronische_Personalausweis_.28nPA.29][WP: neuer Personalausweis (nPA)]]
+    - [[http://www.postgresql.org/][PostgreSQL]]
+    - [[http://www.geany.org/][Geany]]
+
