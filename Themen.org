@@ -1,0 +1,138 @@
+* Geplante Themen
+
+  Unten findet sich eine unsortierte Liste diverser Themen, die man in
+  der Sendung »verwursten« könnte.
+** IPv4/6
+   - Sicherheit von IPv6, mir hat da jemand erzählt, dass IPv6 unsicherer
+     als IPv4 sei, weil man nicht mehr richtig filtern könne. Ich habe das
+     nicht wirklich verstanden, aber ich glaube, der hatte auch einfach
+     nicht verstanden, wie die Verteilung von IPv6-Adressen funktioniert.
+** GPS
+** Backup
+   - sinnvolle Strategien und Programme
+   - Wofür? Hardware-Fehler (Festplattenausfall), Software-Fehler (Firefox
+     verhobelt die Session), Anwenderfehler (ungewolltes Löschen von
+     Dateien; hätte man vielleicht den Papierkorb nicht erfinden sollen,
+     sondern ein Backup-System?)
+   - Backups in Zeiten von Btrfs & Co.
+** Drucker
+   (Was gibt es, wie funktionieren die) :)
+** Krypto (Theorie und Praxis)
+*** TrueCrypt
+    Wie funktioniert das und was ist das?
+** Überwachungskameras in Jena und rechtl. Situation
+
+** Freifunk
+** Hackspace
+** GNU/Linux
+** Lizenzen (GPL, BSD)
+   Name von Iceweasel, Java‐Probleme mit Oracle, Raubkopierer, Patente
+   (Dampfmaschinenpatent), Copyright
+*** Regulierung als Hilfmittel oder Falsche Politik im Umgang mit dem Internet/der Technik
+   - Es soll um Kampagnen, Reaktionen und Einstellungen gehen, die im
+     Zusammenhang mit dem Internet bzw. allgemein der Technik nicht mehr
+     zeitgemäß oder fehlgeleitet sind. Aktionen, die im alten Umfeld
+     funktionieren, können im modernen, technischen Umfeld völlig
+     kontraproduktiv sein. Es soll um falsches, engstirniges, antiquiertes
+     Denken gehen, das „heute“ nicht mehr zeitgemäß ist.
+   - http://lwn.net/Articles/473794/
+   - Musikindustrie mit Tauschbörsen
+   - GSM und andere geheime Standards
+   - Video-/Tonaufnahmen bei Veranstaltungen/Konzerten
+   - Hetze gegen Versandapotheken
+   - Barbra Streisand
+   - http://lwn.net/Articles/483616/ Die Aussagen müssen noch geprüft werden.
+   - http://static.thepiratebay.org/legal/sopa.txt
+** Das digitale Erbe
+   Welche neuen Herausforderungen gibt es in der digitalen Welt mit
+   dem Tod?
+** SSL‐Sicherheit
+   was ist dieses ganze CA, PGP und Web of Trust
+** Facebook & Co.
+   - die Erscheinungen und Erfolge wider des Gedankens
+   der Internets von Dezentralität und Freiheit
+   - Alternativen zu Facebook zum selber hosten: Diaspora & Konsorten
+** LaTeX/Textsatz/Typographie
+** BitTorrent
+   bei der Gelegenheit könnten wir die Beiträge auch per BT verteilen.
+** Computersucht oder allgemein computerbedingte Probleme im RL
+   - Vielleicht auch die Abhängigkeit der Gesellschaft vom Computer. Wenn
+    die Gesellschaft einen Tag offline wäre?
+   - Wie zeigt sich Computersucht? Äußert sie sich anders als andere
+    Abhängigkeiten? Vielleicht können wir dazu einen Gast bekommen? Suchthilfe?
+
+
+** Commons/Digitale Allmende
+   Silke Helfrich aus Jena trägt sehr oft zu dem Thema vor und hat
+   dazu einiges zu sagen. Thematisch passt das bei uns gut mit
+   rein. Siehe [[https://de.wikipedia.org/wiki/Allmende][WP:Allmende]].
+
+
+** CAcert
+   - Was ist das und wie funktioniert das.
+
+** Internethumor
+   In der Sendung könnte man über diverse Meme sprechen, Imageboards
+   wie 4chan, krautchan usw. wären zu erwähnen.
+   - xAFFE erwähnte den Vortrag [[http://vimeo.com/11194742][Haha ich lachte Bernd!]] von der
+     re:publica 2010
+   - Als Intro könnte man Riech mit der Winnenden-Rede verwenden: [[https://www.youtube.com/watch?v%3D5XKsEfGaWd4][Ankündigung]]
+
+** Kulturwertmark
+** ACTA
+** Funkzellenüberwachung
+   Die FZA ist durch die Nazidemo in DD in das Gespräch gekommen. Wir
+   könnten evtl. eine Sendung zum DSB des Landes Thüringen machen und
+   dort das Thema kurz ansprechen. Die Sendung geht dann in die
+   Tiefe. Wir erklären, wie das technisch funktioniert und wo
+   rechtliche Probleme liegen. Weiterhin könnten wir Astrig
+   Rothe-Beinlich und Katharina König als (prominente) Betroffene
+   fragen. Johannes Lichdi könnte was zum aktuellen Stand erzählen.
+
+   Ich habe am 6.9. mit Johannes gesprochen. Er hat den Bericht
+   »[[http://www.johannes-lichdi.de/fileadmin/user_upload/Publikationen_ab_7-12/Handygate_Dresden_2011__Einblicke_in_Denken_und_Handeln_saechsischer_Ermittlungsbehoerden.pdf][Handygate Dresden 2011: Einblicke in Denken und Handeln sächsicher
+   Ermittlungsbehörden]]« veröffentlicht. Der Bericht ist eine schöne
+   Zusammenfassung des bisherigen Standes.
+
+   Folgende Punkte könnten im Interview angesprochen werden:
+   - Aktionen von Rechten in DD
+     Seit wann? In welcher Form? Gab es Gegenaktionen? Wie sieht die
+     Unterstützung durch NPD und Bevölkerung aus?
+   - Wie lief die Veranstaltung im Jahr 2011 ab?
+     Planung im Vorfeld, Störaktionen, rechtliche Bewertung der
+     Blockade, was passierte am Tag selbst, wie reagierte Polizei vor
+     Ort, wurden Straftaten bekannt, was passierte danach
+   - Bericht der taz vom 19.6.2011
+   - Aktionen der LEA
+     Was ist mittlerweile von diversen Behörden bekannt?
+     Dürfen die das (StPO, StGB etc.)?
+   - Was genau ist FZA und wie funktioniert das?
+   - Erklärung zu eFAS und IVO
+   - Wie funktionierte Aufklärung (auch durch Parlament)?
+     eventuell was zum Gutachten des DSB Schurig.
+
+
+** Usertracking im Netz
+   Ich habe gerade beim DLF den Marktplatz gehört. Dort ging es um
+   Nutzertracking. Das könnte auch für uns ein gutes Thema sein. Wir
+   könnten erzählen, auf welchem Wege Benutzer im Netz verfolgbar sind
+   und was man dagegen tun kann.
+
+** Rollenspiele
+   Wir könnten Anke mal fragen, ob sie sich mit uns über RPGs
+   unterhalten will. Evtl. könnte sie auch zu anderen Spielen etwas sagen.
+
+
+** Keccak, der neue SHA-3
+** Ethische Fragen im Zeitalter der Technik
+   marlonmetal hat das aufgeworfen und bspw. Drohnen, VDS, Cyberwar
+   usw. erwähnt.
+
+** DNS-Dampening
+   Siehe [[http://lutz.donnerhacke.de/Blog/DNS-Dampening][DNS-Dampening]] und weitere Blogposts
+
+** Virus/Malware
+   [[http://inspiratron.org/HistoryOfMalware.php][History of Malware]]
+
+
+** Jabber/XMPP
