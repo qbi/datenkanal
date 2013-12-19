@@ -1,0 +1,433 @@
+* Online-Wahlen mit Constanze Kurz
+  Ich habe mich am 16.6.2012 mit Constanze Kurz über Online-Wahlen
+  unterhalten. Die Shownotes siehe unten.
+
+** Fragen an Chris
+   Im zweiten Schritt will ich mit Chris die Lage an der Uni
+   beleuchten. Folgende Fragen könnten interessant sein:
+   - Wie läuft Wahl ab?
+   - Wie sind die Verantwortlichkeiten?
+   - Rechtliche Hintergründe
+   - Wahlbeobachter?
+   - Welche Aktionen gab es?
+   - Wissen Studenten Bescheid?
+   - Wie sieht der Wahlschein aus?
+   - Wer bestätigt Korrektheit der Wahl?
+   - Was bestätigt er?
+   - Gibt es Umfragen zu Akzeptanz der Online-Wahlen (Urabstimmung)?
+   - Kosten?
+   - Wie ist die Frage zur Urabstimmung?
+
+
+** Text für den Beitrag
+   Die Wahlen zu universitären Gremien sprechen in aller Regel wenige
+   Studenten an. Ein Fünftel oder weniger der Wähler kommen ihrem
+   Recht nach. Die Friedrich-Schiller-Universität (FSU) in Jena glaubt nun,
+   ein Gegenmittel gefunden zu haben: Online-Wahlen.
+
+   In der aktuellen Wahl sollte das System [[http://www.polyas.de/][POLYAS]] der Firma [[http://www.micromata.de/][Micromata]]
+   zum Einsatz kommen. Über ein Formular meldet sich die Student unter
+   Verwendung seines Geburtsdatums, seiner Matrikelnummer sowie einer
+   festgelegten Passphrase an. Danach wird von der Software ein
+   Wahlschein präsentiert. Studierende geben die Stimme ab und die
+   Software zählt am Ende aus. Eigentlich klingt das alles ganz
+   einfach. Wie jedoch schon der Start zeigte, gibt es eine Vielzahl
+   von Problemen.
+
+   Christoph Pregla erzählt im Podcast, dass eine von drei Komponenten
+   der Software zunächst nicht gestartet werden konnte. Es gab dann
+   längere Telefonate zwischen Micromata und der FSU. Die beteiligten
+   Personen verließen dann die Räumlichkeiten. Es ist unklar, was in
+   dieser Zeit mit dem Rechner passierte. Ein Angreifer hätte
+   eventuell leichtes Spiel. Die Software konnte letztlich gestartet
+   werden. Jedoch fiel irgendwann auf, dass die Online-Version des
+   Wahlzettels von der Druckversion abwich. Während auf dem gedruckten
+   Wahlzettel korrekt die Abgabe von drei Stimmen möglich war, konnten
+   online nur zwei Stimmen abgegeben werden. Dieser Fehler führte dann
+   zum Abbruch der Online-Wahl.
+
+   Im zweiten Teil des Podcasts erzählt Christoph dann von weiteren
+   Problemen, die er bei der Software sieht und auch von Aktionen, die
+   vom Studierendenrat der FSU geplant werden. Constanze Kurz liefert
+   im ersten Teil einige Informationen zu den theoretischen Problemen
+   von Online-Wahlen und erzählt von der GI- sowie ÖH-Wahl. Es war
+   eigentlich geplant, die Aufzeichnung zu dritt mit Christoph zu
+   machen. Aber wir hatten das Treffen verpeilt. Daher gibt es zwei
+   getrennte Gespräche.
+
+   Am 5. April 2012 fand an der FSU eine Präsentation von Micromata
+   statt. Dort sprachen sowohl Vertreter des Wahlamtes wie auch
+   Firmenvertreter. Herr Rüttgers vom Wahlamt machte dort deutlich,
+   die Einführung der Online-Wahlen zwei Ziele verfolgen.
+   1. Erhöhung der Wahlbeteiligung
+   2. Kostenersparnis durch Vereinfachung des Verfahrens
+
+   Im Sommersemester 2012 finden kleine Gremienwahlen, Wahlen zum
+   Stura, zu den Fachschaftsräten und zum Rat der Graduiertenakademie
+   statt. Daneben gibt es eine Urabstimmung über Online-Wahlen. Dadurch
+   ergibt sich gegebenenfalls die Möglichkeit, Online-Wahlen bei
+   studentischen Gremien einzusetzen. Die laufende Online-Wahl
+   berücksichtigt nur Gremien der Uni.
+
+   Momentan gibt es 18.000 Wahlberechtigte. Für die müssen Zettel
+   gedruckt und versandt werden. Das verursacht für die FSU einen
+   erheblichen Aufwand. Denn es ist viel Personal eingebunden und
+   verschlingt viel Zeit. Des Weiteren ist das Verfahren nicht
+   umweltfreundlich. Denn aufgrund der geringen Wahlbeteiligung landen
+   mehr als 80 % der Ausdrucke im Papierkorb. Angeblich entstehen
+   dadurch Kosten von ca. 20.000 €. Im Verlauf der Präsentation gab es
+   keine Aussage, was POLYAS kostet. Intuitiv wäre zu erwarten, dass
+   das System weniger Kosten verursacht.
+
+   Ein weiteres Ziel ist die Erhöhung der Wahlbeteiligung. Denn
+   schließlich nutzen viele Studenten Facebook, also werden sie ihre
+   Stimme gern online abgeben. So lautete in etwa die Begründung.
+
+   Seit 2008 gibt es an der FSU Überlegungen zur Durchführung von
+   Online-Wahlen. Zwei Jahre später fand eine Testwahl mit Micromata an
+   der Graduiertenakademie statt. Am 29. Februar 2102 wurde eine neue
+   Wahlordnung verabschiedet. Diese ermöglicht erstmalig Online-Wahlen.
+
+   Im Verlauf der Veranstaltung wurde mehrfach erwähnt, dass die DFG
+   und die Gesellschaft für Informatik (GI) POLYAS
+   einsetzen. Insbesondere letztere als Vereinigung der Informatiker
+   wurde als Beleg aufgeführt, dass das System gut ist. Denn was das
+   schon Informatiker einsetzen … Mir fällt da nur ein: »Der Schuster
+   hat immer die schlechtesten Schuhe«. :-)
+
+   Die Studierenden haben mittlerweile alle ein Anschreiben
+   bekommen. Dort steht drin, wo man sich anmelden kann, wie sich das
+   Loginkennzeichen zusammensetzt (Matrikelnummer und Geburtsdatum),
+   wie die Passphrase ist und wie der Fingerprint des SSL-Zertifikats
+   aussieht. Somit wäre der Login und die Wahl theoretisch
+   möglich. Laut Auskunft von Christoph gibt es einen zweiten Anlauf
+   für die Online-Wahl. Dieser startet am 9. Juli 2012.
+
+   Bei der Präsentation gab es an der Stelle Screenshots vom
+   Wahlportal. Lustigerweise war im Suchfeld des Browsers zu lesen,
+   welche Frage derjenige zuletzt an Google gegeben hatte. Diese
+   lautete: »Wie mache ich einen Screenshot?« ;-)
+
+   Der technische Wahlvorgang war für mich nicht nachvollziehbar. Denn
+   zum einen besteht dieses aus einer Vielzahl von Schritten, wo
+   diverse Dinge passieren. Ich konnte da nicht gleichzeitig
+   mitschreiben und -denken. Jedoch gibt es die Diplomarbeit »Anbindung
+   eines externen Authentifizierungsdienstes an ein Online-Wahlsystem«
+   von Christian Backes. Dort stehen einige Details dazu drin.
+
+   Schließlich folgten Fragen, die entweder vorab abgegeben wurden oder
+   sich im Anschluss stellten. Ein Teil bezog sich auf Verschlüsselung
+   und Technik. Micromata generiert die Passphrases (TANs) und
+   verschlüsselt diese mit GnuPG. Das Ergebnis wird an die FSU
+   gegeben. Die Erzeugung der TANs könnte jedoch auch bei der FSU
+   erfolgen.
+
+   Das System ist abgeschottet. Es läuft nur die Wahlsoftware und keine
+   anderen Dienste. Gleichzeitig findet eine Prüfung mit Aide und
+   Tripwire statt.
+
+   Die Software wurde in Java geschrieben. Micromata verwendet
+   Bouncycastle mit 2048 Bit RSA und 256 Bit AES. Weiterhin wird
+   angeblich intern SHA-256 als Hashalgorithmus benutzt. Im Rahmen der
+   Vorführung später waren jedoch Zeilen mit MD5 zu lesen. Auf
+   Nachfrage antwortete ein Vertreter der Firma, dass die Logmeldungen
+   noch nicht angepasst wurden.
+
+   Gerade im Lichte des Vorfalls an der FSU ist die Frage nach der
+   Verfügbarkeit interessant. Angeblich gab es bisher einen
+   Hardwareausfall. Dies führte zu sechs Stunden
+   Nichterreichbarkeit. Ansonsten wurde immer 100 % Verfügbarkeit
+   erzielt. Wie wohl die offizielle Zahl für die FSU aussieht?
+
+   Das BSI hat den Code von POLYAS geprüft. Es gab Penetrationtests vom
+   Redteam Aachen. Letztere führten einen Whiteboxtest durch und fanden
+   keine Schwachstellen.
+
+   Irgendwann war meine Batterie am Ende und ich habe nicht weiter
+   mitgetippt. Am Ende ging es noch um das Kompilieren der
+   Software. Das sprach Christoph auch im Podcast an. Daneben gab es
+   weitere eher technische Fragen.
+
+   Relativ wenig wurden eher juristische Fragen
+   angesprochen. Constanze erwähnte bereits die Grundsätze, die
+   zuletzt das Bundesverfassungsgericht an Wahlen im Allgemeinen
+   gestellt hat. In den Leitsätzen zum Urteil [[http://www.bundesverfassungsgericht.de/entscheidungen/cs20090303_2bvc000307.html][2 BvC 3/07 und 2 BvC
+   4/07]] schrieben die Richter: /Der Grundsatz der Öffentlichkeit der
+   Wahl, […], gebietet, dass alle wesentlichen Schritte der Wahl
+   öffentlich überprüfbar sind, […]./ Bei einer klassischen Wahl ist
+   das vollständig gegeben. Da wird ein Papierzettel in eine Urne
+   geworfen. Später werden alle Zettel herausgeholt und
+   ausgezählt. Das Eregbnis wird anschließend übermittelt. Jeder
+   Mensch mit grundlegenden mathematischen Fähigkeiten kann das
+   Verfahren verstehen und sieht, wenn manipuliert wird. Wie ist das
+   bei Online-Wahlen? Schon oben schrieb ich, dass der gesamte
+   Wahlvorgang nicht so auf die Schnelle zu verstehen ist. Bereits
+   hier benötigt man tiefergehende Kenntnisse in der Informatik, um
+   den Ablauf zu verstehen. Das heißt, selbst wenn man davon überzeugt
+   ist, dass die Software fehlerfrei funktioniert, kann nicht jeder
+   die Funktionsweise einfach nachvollziehen. Wie das mit der
+   Fehlerfreiheit ist, sieht man ja am Start des Systems an der FSU.
+
+   Insofern bleiben die grundsätzlichen Bedenken bestehen. Selbst die
+   Vertreter von Micromata räumten in  der Präsentation ein, dass ihr
+   System nicht den Anforderungen des BVerfG gerecht würde. Aber
+   offensichtlich erheben sie an Uniwahlen andere Ansprüche.
+
+   Ich würde mich freuen, wenn sich Studierende der FSU über die
+   Probleme derartiger Wahlsysteme klar werden und ihr Kreuz für die
+   Urabstimmung entsprechend setzen. Gleichzeitig benötigt die Stura
+   die Unterstützung, um Informationen zu verteilen bzw. Gegenaktionen
+   zu planen. Solltet ihr also Probleme sehen, meldet euch beim
+   Stura. Habt ihr weitere Informationen zu POLYAS an der FSU oder
+   anderswo, steht euch das Kommentarfeld offen. Viel Spaß beim Hören
+   des Podcasts.
+** Mitschrift der Veranstaltung von Micromata
+*** Präsentation von Polyas an der FSU am 5. April 2012
+
+**** Teilnehmer:
+     - Marco Rüttger
+     - Gerald Wolf
+     - Wolfgang Jung
+
+**** Ziel:
+ - Erhöhung der Wahlbeteiligung
+ - Vereinfachung des Verfahrens
+
+
+Distanz der Studierenden war zu spüren. Daher die Veranstaltung.
+
+**** Inhalt
+  1. Wahlen im SS12
+     Kleine Gremienwahlen, Stura-/FSR-Wahl, Rat der Graduiertenakademie, Urabstimmung 
+     18000 Wahlberechtigte
+     Beteiligung ging in den letzten Jahren zurück, zw 16 und 18 %
+     hoher Aufwand
+     Erhöhung der Beteiligung durch vertraute Medien (Studenten nutzen ja auch Facebook)
+  2. Onlinewahlen
+     wirtschaftliche Gründe
+     viel Personal
+     viel Zeitaufwand
+     100000 Umschläge und 20000 Blätter bisher
+     nicht umweltfreundlich
+     Kosten 20000€ bisher (es gab keine Aussage, was Polyas kostet. Die Polyas-Leute meinten, sie würden mit der Software kein Geld verdienen)
+     Ideal: Reduzierung Aufwand, rechtssicherheit, Akzeptanz, techn. Sicherheit
+     es bleibt nur Onlinewahl
+     2008 erste Überlegungen durch Vorgänger von Rüttger
+     2010 Onlinewahlen an der GA mit 451 Berechtigten auch mit Micromata
+     DFG wählt auch mit Polyas und GI --> wenn GI vertraut, muss das gut sein
+     Jan 2012 neue Wahlordnung parallel Anbietersuche
+     Prüfung im Rechtsamt mit URZ, STI sowie BSI und CASED
+     29.2.12 Entsch. Wahlvorstand
+  3. Administration, Ablauf
+     Einteilung in hmogene Gruppen
+     Senat in A1, A2; Gleichstellung in C1 und C2
+     Bsp. Zahnmedizin A2/B10/C2
+     insgesamt 18 mögliche Kombis (theoretisch sind mehr möglich)
+     PIN/TAN-Verfahren
+     Wahlamt generiert PIN mit GebDatum und Matrikelnummer (errechenbar?)
+     PIN und TAN nicht zusammen versenden, wegen Fehlermöglichkeiten
+     Übermittlung der PIN an Micromata
+     Vorschlag: Verwendung der Krankenkassenkarte, Datenschutzprobleme, außerdem zuviel Wechsel
+     Wähler wird mitgeteilt, wie die Kombi aus Matnr und Gebdat ist
+     Micromata generiert die TAN
+     keine personenbezogenen Daten übermittelt
+     Wahlamt sendet TANs
+     Unterlagen im Wahlamt generiert
+     Druck erfolgt im Haus, eintüten Kuviertiermaschine durch Azubi des SSZ
+     Versand ab 24.5.2012
+     Keine Zugangsdaten an Briefwähler
+     Beginn, Abbruch, Unterbrechung und Beendigung durch zwei Berechtigte (§8 Abs.1 WO)
+     Freischaltung 13.6.  14 Uhr
+     Ende 26.6. 14 Uhr
+     Einrichtung eines Wahlportals
+     muhahah: Screenshot mit einem IE-Tab: »Wie mache ich einen Screenshot« --> Spezialexperten
+     Fragen: Ist Verfikation durch Zusendung ausreichend? Wie ist Gewährleistet, dass nur Berechtigte abstimmen?
+     PIN/TAN nicht veröffentlicht, keine zusendung, Sicherheitsmasstab ist Briefwahl, Unterschrift ist auch nicht prüfbar
+     Läuft Vergabe automatisiert? Schritte innerhalb der FSU
+     Vorteile ggü Briefwahl: organisatorische und wirtschaftliche, Nutzung von PC und Internet ist ressourcensparend, akzeptiert von Studis, Zeitersparnis, auch durch den Wähler, Auszählung erfolgt genau, 
+     Maßnahmen zur Verhinderung von Stimmenkauf: Mgl. des Wahlamtes sind begrenzt, wird rechtl Hinweise geben
+     Fragen an das Wahlamt
+     Weitere Fragen:
+     Verwendung der PIN: Daten auf THOSKA vorhanden, leicht aufzufinden, daher sehr öffentliche Zahlkombination, Matnr auf Listen: Matnr darf nicht zusammen mit Namen veröffentlich werden, THOSKA kann nicht jeder einsehen, müssen Daten finden, die Uni und Wähler bekannt sind. 
+
+Präsi Micromata:
+Gerald Wolf, Projektleiter MM
+keine Präsentation
+seit 15 Jahren Onlinewahlen
+wollen Dialog führen
+Vorführung Onlinewahlsystem
+
+Herr Wolfang Jung, 1996 Onlinewahlen, begonnen in Finnland, Projekt für Schüler/Studenten
+PIN einfach zu berechnen
+TAN achtstelliger Code
+groß/klein, Zahlen => 62 Zeichen, außer verwechselbarer Zeichen (l<->l, 0<->O etc.)
+Daher 55 Zeichen verfügbar
+bei GI ist PIN Mitgliedsnr
+
+Frage Pub: Level Briefwahl/Onlinewahl, online ist effizienter zu tauschen: Aber das Schreiben muss abgefangen werden; aber finanzielle Anreize sind da: 
+
+Frage Pub: MM generiert TANs, Wie werden TANs eingespeist? Wie ist Absicherung? 
+Antw: wir bekommen Wählerverz. als csv und haben Programm, welches TANs generiert. Versand verschlüsselt mit GnuPG. MM hat keine Kenntnis über TANs. erstellung von sql wird in verzeichnis importiert, enthalten ins der Wähler und Hashcode der Datei, keine kenntnis über tans im Klartext, SHA256, für hash in Database, tan-Programm muss nicht bei MM laufen
+
+Frage Pub: warum MM-lösung
+Antw: liegt an vertrag, vorgaben an 2010, 
+Frage: kann man es jetzt anders gestalten?
+antw: verfahrenstedhn. Frage, war als Option drin, jetzt wäre es unkritisch zur FSU zu wechseln.
+
+Frage: liegen pin und tan gleichzeitig irgendwo vor
+antw: nein
+
+f: Auf welchem System wird die Software installiert und werden die Server nur(!) für dieses System verwendet oder laufen noch andere Dienste auf dem Server ?
+a: alles auf einem system, mit option auslagerung Wählerverzeichnis; keine anderen Dienste, tripwire, aide, postgres, 
+
+f: Welche Datenbank wird verwendet? In welchen Format werden die Stimmen abgespeichert? Welche Daten werden zusätzlich gespeicher?
+a: postgres, ...
+
+f: 
+a: urne votum verschl. abgelegt, zugang mit kenntnis zweier pw aus wahlvorstand, JCE mit BouncyCastle, RSA2048, hybrid mit AES256
+
+f: wann liegt wo was
+a: dokument existiert, haben die leute nicht mit dabei, wird zur verfügung gestellt, 
+  pin und tan liegen in db vor
+  wähler auth. sich
+  validator signiert pro eintrag
+  validator prüft verwendung, falls ja, ist das ein angriff; falls nein, wird token ausgeliefert, 512bit zufall; ist authmerkmal für urne
+  urne merkt isch token und schickt token an wverz
+  token liegen verschl-. in db
+  nach dem commit wird signatur als verbraucht gekennzeichnet
+  token an wähler ausgeliefert alslink
+  mit link geht es zur urne
+  urne ermittelt stimmzettel
+  liefert den an browser
+  wähler stimmt ab
+  urne registriert und bestätigt das an user
+  urne informiert verz das wähler gewählt hat
+  token in urne zum löschen makriert#
+  neuanmeldung nicht möglich
+  im verze wird token gelöscht
+  alle 30 abgaben wird eine hashsumme gespeichert, lokal und im verzeichnis
+  
+
+f: Wie hoch sind die statistische Erreichbarkeit der Wahlplatform und die Zuverlässigkeit. Wie lange dauert im Schnitt die Begebung eines Fehlers, welcher zu einer Nichterreichbarkeit des Systems geführt hat?
+a: bisher einen ausfall wegen hardware, dauerte 6 stunden, also 99,4%, bei anderen 100%, problem ist eher organisatorisch, pw sollen auf papier niedergeschrieben und versiegelt werden
+
+f: namensänderung?
+a: stichtagsregelung, grundlage sind daten des stichtages, 25.4.2012 bei FSU
+
+f: browser mit JS, cookies etc.?
+a: mit kompromittiertem system ist alles möglich, liegt außerhalb von polyas, es gibt virt. tastatur, die sich bei jedem klick ändert
+a: studierende können ins URZ oder ins Wahlamt gehen
+a: fp des zert wird auf das Wahlschreiben gedruckt. angriff mitm soll damit ausgeschlossen werden, Thawte signiert
+
+f: tan wird per hash geprüft, server erzeugt hash
+a: ja, innerhalb https klartext
+
+f: Welche unabhängige, externe (sic!) Sicherheitsunternehmen hat die Software geprüft?
+a: code von bsi, dfg, pentest der DFG, RedTeam AC
+
+f: wurde software getestet?
+a: whiteboxtest
+
+f: Aussage der Tester?
+a: keine schwachstellen außer mitm
+
+f: Gab es eine ausführliche (!) Prüfung auf Funktionsfehler durch externe (nicht dem Hersteller)?
+a: pentest hat funktion getestet, zielt aber auf angriff ab, gerade findet ausführliche funktionale prüfung statt (Vorbereitung auf CC EAL3+)
+
+f: Wie wird sichergestellt, dass die geprüfte und zertifizierte Software auch der ausgelieferten entspricht? 
+a: short answer (jens): reflections on trusting trust,
+a: austausch von dateien wird von aide gemeldet, 
+
+f: Inwiefern ist das Prinzip der Gleicheit geschützt? (Stimmabgabe darf nicht zuordbar sein)
+a:
+
+f: Können nachträgliche Stimmen nicht doch manipiliert werden? Es ist ja eine Onlinewahl, somit gibt es von jedem Rechner, der einen I-Net-Anschluss besitzt, die potentielle Möglichkeit in das System einzudringen.
+a:
+
+f: Wie wird garantiert, dass eine Manipulation durch den Systemadministrator/Verwalter des "elektronischen Wahllokals" (Software/Server) nicht möglich ist? Hierbei auch zu beachten, dass "elektronische Stimabgaben" hinzugefügt werden könnten.
+a:
+
+f: Wie würde DOS-Attacken begnet werden?
+a: Durch IP-Filter (begrenzt auf x IP-Adressen)
+
+f: Wie wird sich vor DDOS-Attacken geschützt?
+a: ddos geht.
+
+f: Wie weit wurde die erfolgreiche Manipulation eines elektronischen Wahlsystems durch den CCC aufgearbeitet und die beschriebene Sicherheitslücke geschlossen?
+a: nedap problematik
+
+f: Schutz vor Man-in-the-middle Attacken?
+a:
+
+f: 
+a: Polyas kann nicht bei Landtagswahlen eingesetzt werden. Wegen BVerfG
+
+f: Ha der Wahlvorstand Einsicht in den Quellcode und kompiliert selbst auf dem Server?
+a: ja, mit nda; selbst kompilieren ist problem; wegen gewährleistung; 
+
+f: Wie wird eine öffentliche Überprüfbarkeit/ EInsicht in die Wahlauszählung hergestellt?
+a: xml datei wird erstellt und ausgewertet, wird signiert abgelegt, 
+a: ja, system muss man vertrauen, wahlvorstand kann dumps veröffentlichen
+
+f: sind die dumps anonymisiert?
+a (jens): aufgrund der voriger beschreibung, ja 
+
+f: token bei verbindungsabbau
+a: siehe beschreibung
+
+f: Manipulation, unterbrechung von versuch und manipulation
+a: versuch ist bspw. dos oder 50000 ungültige ssh-logins, wenn beeinflussung entdeckt wird, dann gibt es mgl.
+
+f: wahl nachvollziehbar, protokollierung? was wird gespeichert?
+a: keine daten mit rückschlüsse auf daten, nur außergewöhnlichkeiten, keine ip-adressen, 
+
+
+Präsi Wahlsystem:
+Wahlvorstandsclient: Schlüssel sind beliebige Passwörter
+Logdateien reden von MD5, angeblich wurden Logmeldungen nicht bearbeitet
+
+
+
+**** Weitere Dokumente
+ - Diplomarbeit von Christian Backs: »[[https://www.cdc.informatik.tu-darmstadt.de/de/publikations-details/?no_cache%3D1&pub_id%3DTUD-CS-2010-0029][Anbindung eines externen
+   Authentifizierungsdienstes an ein Online-Wahlsystem]]«
+ - CC-Schutzprofil des BSI: [[https://www.bsi.bund.de/ContentBSI/Themen/ZertifizierungundAnerkennung/ZertifierungnachCCundITSEC/SchutzprofileProtectionProfile/schutzprofile.html#PP0037][BSI-CC-PP-0037-2008]]
+ - Bericht bei Heise: »[[http://heise.de/-181321][Sicherheitsanforderungen für Online-Wahlen
+   zertifiziert]]«
+
+**** Sonstiges
+
+Die Wahlordnung sollte mal in der aktuellen Fassung geprüft
+werden. Eventuell haben die Studierenden die Möglichkeit, ein
+Wahlprüfverfahren durchzuführen. Dann kann ein Betroffener das
+Wahlverfahren anfechten.
+
+
+** Shownotes
+   - [[https://de.wikipedia.org/wiki/Constanze_Kurz][WP: Constanze Kurz]]
+   - [[http://micromata.de/][Micromata]]
+   - Polyas
+   - [[https://www.cdc.informatik.tu-darmstadt.de/de/publikations-details/?no_cache%3D1&pub_id%3DTUD-CS-2010-0029][Diplomarbeit »Anbindung eines externen Authentifizierungsdienstes an ein Online-Wahlsystem« von Christian Backes]]
+   - [[https://www.bsi.bund.de/ContentBSI/Themen/ZertifizierungundAnerkennung/ZertifierungnachCCundITSEC/SchutzprofileProtectionProfile/schutzprofile.html#PP0037][CC-Schutzprofil BSI-CC-PP-0037-2008 des BSI]]
+   - Link zu Jenapolis
+   - Online-Wahlen
+   - opt. Scanverfahren
+   - GI
+   - GI-Online-Wahl
+   - Scheitern des Systems
+   - Testwahl an der FSU
+   - Briefwahl
+   - Präsenzwahl
+   - Wahlpflicht
+   - ÖH-Wahl in Österreich
+   - Wahlamt FSU
+   - Kryptographie
+   - SHA-256
+   - MD5
+   - Hashalgorithmus
+   - NDA
+   - Quellcode
+   - Java
+   - Stura Uni Jena
+   - Bingo-Voting
+   - prof. Gerhard Homm
