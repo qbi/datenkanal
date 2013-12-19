@@ -1,0 +1,95 @@
+
+* Chemnitzer Linux-Tage 2013
+** Themen vorab
+** Vorträge
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/199][Konfiguration des Mailclients mutt]]
+   - Braille/Screenreader
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/160][Erzeugen einfacher OpenStreetMap-Karten]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/259][Computer und Hacking überall mit Raspberry Pi & Co]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/267][Einführung ins Cross Media Publishing]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/197][Einführung in Btrfs]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/193][Totalschaden: Ein gehackter Server auf dem OP-Tisch]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/153][AsciiDoc: medienneutrales Publizieren]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/177][Embedded GNU/Linux mit Gnublin]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/119][Wenn Geeks Langeweile haben]]
+** Musik
+** Shownotes
+   - [[http://chemnitzer.linux-tage.de/2013/][Chemnitzer Linux-Tage 2013]]
+   - [[https://de.wikipedia.org/wiki/Peer_Heinlein][WP: Peer Heinlein]]
+   - [[http://www.heinlein-support.de/][Heinlein Support]]
+   - [[http://www.kaishakunin.com/][Stefan Schumacher]]
+   - [[http://chemnitzer.linux-tage.de/2004/vortraege/detail.html?idx%3D70][Jens' erster CLT-Vortrag (E-Mails und Daten verschlüsseln
+   - Eine Einführung in GnuPG)]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/224][Linux-Versteher dank Strace]]
+   - [[http://linux.die.net/man/1/strace][strace(1)]]
+   - [[https://en.wikipedia.org/wiki/Strace][WP: strace]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/199][Grundkonfiguration des Mailclients Mutt]]
+   - [[http://www.mutt.org/][mutt]]
+   - [[http://unix.stackexchange.com/q/62986/606][Modify an incoming mail from text/plain to text/html]]
+   - [[http://kubieziel.de/blog/archives/1539-mutt-will-jede-E-Mail-entschluesseln.html][mutt will jede E-Mail entschlüsseln]]
+   - [[https://de.wikipedia.org/wiki/Brailleschrift][WP: Brailleschrift]]
+   - [[https://de.wikipedia.org/wiki/Screenreader][WP: Screenreader]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/121][Nahtlos skalierbares Storage mit Ceph]]
+   - [[http://ceph.com/][ceph]]
+   - [[http://kubieziel.de/blog/archives/1547-Amanda-Palmer-zur-Bezahlung-von-Musik-im-Netz.html][Amanda Palmer zur Bezahlung von Musik im Netz]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/327][Linux auf ARM-Servern]]
+   - [[https://de.wikipedia.org/wiki/ARM-Architektur][WP: ARM-Architektur]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/267][Einführung ins Cross Media Publishing]]
+   - [[http://www.methods.co.nz/asciidoc/][AsciiDoc]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/153][AsciiDoc: medienneutrales Publizieren]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/269][Host-based disk-mirroring with MD]]
+   - [[https://de.wikipedia.org/wiki/System_z][WP: System z]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/197][Einführung in das Dateisystem BTRFS]]
+   - [[https://de.wikipedia.org/wiki/Btrfs][WP: btrfs]]
+   - [[https://btrfs.wiki.kernel.org/index.php/Main_Page][btrfs im Kernel-Wiki]]
+   - [[http://wiki.ubuntuusers.de/Btrfs-Dateisystem][btrfs bei Ubuntuusers]]
+   - [[http://datenkanal.org/index.php?/archives/36-DK12-Dateisysteme.html][DK12: Dateisysteme]]
+   - [[http://synflood.at/tpp.html][Text presentation program]]
+   - [[http://penn.semmel.ch/index.php?id%3D17][Pennsemmel-Podcast zu den Chemnitzer Linux-Tagen]]
+   - [[http://noone.org/blog][Axel Beckert]]
+   - [[http://hackerfunk.ch/][Hackerfunk]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/343][ICINGA – Open Source Monitoring Today and Tomorrow]]
+   - [[https://www.icinga.org/][Icinga]]
+   - [[http://zeromq.org/][ØMQ]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/210][Best Practice OTRS – Serviceverträge mit OTRS planen, verwalten und überwachen]]
+   - [[https://de.wikipedia.org/wiki/Open_Ticket_Request_System][WP: OTRS]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/201][Anständiges Werkzeug: emacs]]
+   - [[http://www.import-this.de/episode/das-scm-mercurial/][Import This: Das SCM Mercurial]]
+   - [[http://chemnitzer.linux-tage.de/2013/addons/pgp][Keysigning-Party]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/340][Total Testing]]
+   - [[http://datenkanal.org/index.php?/archives/46-DK19-Der-gemeine-Buffer-Overflow.html][DK19: Der gemeine Buffer Overflow]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/185][Einsatz von Postgres im Bereich der Verkehrstelematik]]
+   - [[https://de.wikipedia.org/wiki/Bin%25C3%25A4re_Uhr][WP: Binäre Uhr]]
+   - [[https://de.wikipedia.org/wiki/Berlin-Uhr][WP: Berlin-Uhr]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/231][Managing larger projects with TaskJuggler]]
+   - [[http://www.taskjuggler.org/][TaskJuggler]]
+   - [[https://de.wikipedia.org/wiki/Scrum][WP: Scrum]]
+   - [[https://de.wikipedia.org/wiki/Kanban][WP: Kanban]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/174][Zur Funktionsweise von Schadsoftware]]
+   - [[http://www.sicherheitsforschung-magdeburg.de/aktuelles.html][Magdeburger Institut für Sicherheitsforschung]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/240][Forth überall]]
+   - [[http://chemnitzer.linux-tage.de/2013/vortraege/163][Ich weiß, was du letzte Woche getan hast! Seitenkanäle in der Gebäudeautomation]]
+
+
+** Kapitelmarken
+   - [00:00:00] Einstieg ins Thema
+   - [00:10:00] Linux-Versteher dank strace
+   - [00:14:42] Grundkonfiguration des Mailclients mutt
+   - [00:24:07] Nahtlos skalierbares Storage mit Ceph
+   - [00:35:53] Rawen mit Shou gamil el jaw
+   - [00:39:00] Linux auf ARM-Servern
+   - [00:52:30] Einführung ins Cross Media Publishing
+   - [00:55:36] Host-based disk-mirroring with MD
+   - [00:57:46] Einführung in das Dateisystem BTRFS
+   - [01:04:55] ICINGA – Open Source Monitoring Today and Tomorrow
+   - [01:11:22] Best Practice OTRS – Serviceverträge mit OTRS planen,
+     verwalten und überwachen
+   - [01:17:57] Anständiges Werkzeug: emacs
+   - [01:24:14] LóngTrigger mit Lost and Blue
+   - [01:29:04] Total Testing
+   - [01:35:08] Einsatz von Postgres im Bereich der Verkehrstelematik
+   - [01:40:52] Managing larger projects with TaskJuggler
+   - [01:46:21] Zur Funktionsweise von Schadsoftware
+   - [01:49:33] Forth überall
+   - [01:55:28] Ich weiß, was du letzte Woche getan hast!
+     Seitenkanäle in der Gebäudeautomation
