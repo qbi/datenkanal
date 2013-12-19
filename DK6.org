@@ -1,0 +1,34 @@
+
+* Audioproduktion unter Linux und Technik im OKJ
+  Termin: 3. Mai 2011, 17--19 Uhr
+  Gäste: Adi (zugesagt), Mathias vom OKJ
+
+
+** Erwähnungen
+   - [[https://www.jenaleaks.de/][Jenaleaks]] ist vor kurzem an den Start gegangen. Vielleicht kann
+     man dazu ein paar Worte verlieren.
+** Technik beim OKJ
+   Jörg hat sich schon mal mit Matthias beim OKJ unterhalten und die
+   Technik scheint auch interessant sein. Von den Mischpulten geht das
+   Signal bis vor in die Sendezentrale als analoges Signal, dort steht ein
+   A/D-Wandler. Das digitale Signal wird dann an die Telekom übergeben,
+   die es zur UKW-Ausstrahlung bringt und in das Kabelnetz einspeist. Das
+   digitale Signal wird dann auch noch als Stream fürs Internet verwendet.
+
+   Vielleicht können wir auch noch so die Technik am Mischpult untersuchen.
+
+   Fragen:
+   - Welche Filter arbeiten im Studio? Geschieht eine automatische
+     Nachbearbeitung, bevor das Signal den Sender verlässt? Martin maha
+     Hase hatte erwähnt, dass ein Kompressor (was auch immer das ist) gut
+     ist.
+
+
+** Musikproduktion unter Linux
+   Wir haben adi eingeladen. Er könnte was zu Musikproduktion
+   erzählen. Also angefangen, wie die Musik in den Rechner kommt, wie
+   sie bearbeitet wird und wieder rauskommt.
+
+
+** Musik
+   Jens hat adi gefragt und er bringt eigene Musik mit.
