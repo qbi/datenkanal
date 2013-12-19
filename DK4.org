@@ -1,0 +1,148 @@
+* Datenschutz
+** Termin:
+  Die Sendung erfolgt am 20. März 16 bis 18 Uhr live.
+
+  Den Termin haben wir 2. März vor Ort im OKJ gebucht und bestätigt
+  bekommen.
+
+** Musik
+  Wir sollten noch einen Wunsch von maha aus DK3 aufgreifen, da wir völlig
+  übersehen haben, dass er uns diesen geäußert hat. http://binaerpilot.no/
+
+** Inhalt
+*** Fragen
+   - Was ist Datenschutz? Welche Daten sollte man schützen? Wogegen sollte
+     man sie schützen? Warum sollte man Daten schützen?
+   - Wofür gibt es einen Datenschutzbeauftragen? Welche Stellung in der
+     Gesellschaft/Politik und welche Rechte/Pflichten hat er?
+   - Der neue Datenschutzbeauftrage von Thüringen
+*** Geschichte
+    Vielleicht kann man die Geschichte an zwei Stellen beginnen:
+    1. D mit Arztgeheimnis, Beichtgeheimnis etc.
+    2. USA mit deren Verfassung und dem 4. Verfassungszusatz
+    Von da ab kann man die Idee zu dem Register von Kennedy sowie dem
+    ersten DS-Gesetz in Hessen weiterentwickeln.
+
+    Ein nennenswerter Meilenstein in der jüngeren Geschichte ist auch
+    der Artikel 8 der Europäischen Menschenrechtskonvention aus dem
+    Jahr 1950.
+
+    Ein längerer Teil sollte sich mit dem Recht auf informationelle
+    Selbstbestimmung beschäftigen. Das heißt, wir sollten etwas zur
+    Geschichte (Volkszählungsurteil) erzählen und erklären, was dieses
+    Recht für den Bürger bedeutet.
+*** Interview TLfD
+    Jens hat am 14.3.2012 ein Interview mit der Thüringer
+    Landesbeauftragten für den Datenschutz gemacht. Dabei wurden die
+    Aufgaben besprochen. Herr Dr. Hasse erklärte, welche Schwerpunkte
+    er setzen will. Vielleicht können wir das als Ausgangspunkt
+    unserer Betrachtungen nehmen.
+
+
+** Terminankündigungen
+   - CAcert ATE am 29.3. in Jena
+   - sub:conf am 13./14. April in L
+   - Lange Nacht der Computerspiele am 5. Mai in L: http://www.schreibfabrik.de/spielenacht.php
+
+
+** Shownotes
+   - Letzte Sendung mit maha
+   - [[https://de.wikipedia.org/wiki/Datenschutz][WP: Datenschutz]]
+   - [[https://de.wikipedia.org/wiki/Volksverhetzung][WP: Volksverhetzung]]
+   - [[https://de.wikipedia.org/wiki/Meinungsfreiheit][WP: Meinungsfreiheit]]
+   - [[http://odem.org/informationsfreiheit/][Internet-Zensur in Deutschland]]
+   - [[https://www.awxcnx.de/handbuch_18.htm][Projekt Gegenwirken im Privacy-Handbuch von awxcnx.de]]
+   - [[https://de.wikipedia.org/wiki/Hausdurchsuchung][WP: Hausdurchsuchung]]
+   - [[http://chemnitzer.linux-tage.de/][Chemnitzer Linux-Tage 2012]]
+   - [[http://blogs.computerworld.com/18335/bitcoin_miners_busted_police_%20confuse_bitcoin_power_usage_for_pot_farm][Bitcoin miners busted? Police confuse bitcoin power usage for potfarm]]
+   - [[https://de.wikipedia.org/wiki/Privatsph%C3%A4re][WP: Privatsphäre]]
+   - [[https://de.wikipedia.org/wiki/Datenverarbeitung][WP: Datenverarbeitung]]
+   - [[https://de.wikipedia.org/wiki/Neandertaler][WP: Neandertaler]]
+   - [[https://de.wikipedia.org/wiki/Verfassung_der_Vereinigten_Staaten][WP: Verfassung der USA]]
+   - [[https://de.wikipedia.org/wiki/Zusatzartikel_zur_Verfassung_der_Vereinigten_Staaten][WP: Zusatzartikel zur Verfassung der USA]]
+   - [[https://de.wikipedia.org/wiki/4._Zusatzartikel_zur_Verfassung_der_Vereinigten_Staaten][WP: 4. Zusatzartikel zur Verfassung der USA]]
+   - [[https://de.wikipedia.org/wiki/Prohibition_in_den_Vereinigten_Staaten][WP: Prohibition in den USA]]
+   - [[https://de.wikipedia.org/wiki/Al_Capone][WP: Al Capone]]
+   - [[https://de.wikipedia.org/wiki/5._Zusatzartikel_zur_Verfassung_der_Vereinigten_Staaten][WP: 5. Zusatzartikel zur Verfassung der USA]]
+   - [[http://www.dradio.de/dlf/sendungen/kalenderblatt/1706611/][Ein Vorbild für liberale Gesetzestexte in Europa (zur Verfassung von Cádiz)]]
+   - [[https://de.wikipedia.org/wiki/William_Howard_Taft][WP: Richter William Howard Taft]]
+   - [[https://de.wikipedia.org/wiki/Oberster_Gerichtshof_der_Vereinigten_Staaten][WP: Oberster Gerichtshof der USA (Supreme Court)]]
+   - [[https://de.wikipedia.org/wiki/Louis_Brandeis][WP: Richter Louis Brandeis]]
+   - [[http://groups.csail.mit.edu/mac/classes/6.805/articles/privacy/Privacy_brand_warr2.html][The Right to Privacy von Warren und Brandeis]]
+   - [[https://de.wikipedia.org/wiki/Abh%C3%B6ren][WP: Abhören]]
+   - [[https://en.wikipedia.org/wiki/Olmstead_v._United_States][WP: Olmstead vs. US (englisch)]]
+   - [[http://supreme.justia.com/cases/federal/us/277/438/case.html][Olmstead v. United States - 277 U.S. 438 (1928)]]
+   - [[https://en.wikipedia.org/wiki/Katz_v._United_States][WP: Katz vs. US (englisch)]]
+   - [[http://supreme.justia.com/cases/federal/us/389/347/case.html][Katz v. United States - 389 U.S. 347 (1967)]]
+   - [[https://de.wikipedia.org/wiki/Earl_Warren][WP: Richter Earl Warren]]
+   - [[https://de.wikipedia.org/wiki/Griswold_v._Connecticut][WP: Griswold vs. Connecticut]]
+   - [[http://supreme.justia.com/cases/federal/us/381/479/case.html][Griswold v. Connecticut - 381 U.S. 479 (1965)]]
+   - [[https://de.wikipedia.org/wiki/Attentat_auf_John_F._Kennedy#Die_Warren-Kommission][WP: Warren-Kommission]]
+   - [[https://de.wikipedia.org/wiki/John_F._Kennedy][WP: John F. Kennedy]]
+   - [[https://de.wikipedia.org/wiki/Miranda_v._Arizona][WP: Miranda vs. Arizona]]
+   - [[http://supreme.justia.com/cases/federal/us/384/436/case.html][Miranda v. Arizona - 384 U.S. 436 (1966)]]
+   - [[http://www.hessen.de/irj/hessen_Internet?cid%3D098693b3bbacadc19b81045a1c2300f2][Datenschutzgesetz in Hessen]]
+   - [[https://de.wikipedia.org/wiki/Briefgeheimnis][WP: Briefgeheimnis]]
+   - [[https://de.wikipedia.org/wiki/Grundgesetz_f%C3%BCr_die_Bundesrepublik_Deutschland][WP: Grundgesetz]]
+   - [[http://www.gesetze-im-internet.de/gg/index.html][Grundgesetz]]
+   - [[https://de.wikipedia.org/wiki/Bundesverfassungsgericht][WP: Bundesverfassungsgericht]]
+   - [[http://www.bundesverfassungsgericht.de/][Bundesverfassungsgericht]]
+   - [[https://de.wikipedia.org/wiki/Allgemeines_Pers%C3%B6nlichkeitsrecht#Allgemeines_Pers.C3.B6nlichkeitsrecht][WP: Allgemeines Persönlichkeitsrecht]]
+   - [[https://de.wikipedia.org/wiki/Informationelle_Selbstbestimmung][WP: Informationelle Selbstbestimmung]]
+   - [[http://www.binaerpilot.no/][Binärpilot]]
+   - [[https://de.wikipedia.org/wiki/Bundesdatenschutzgesetz][WP: Bundesdatenschutzgesetz]]
+   - [[http://bundesrecht.juris.de/bdsg_1990/index.html][Bundesdatenschutzgesetz]]
+   - [[https://de.wikipedia.org/wiki/Volksz%C3%A4hlung][WP: Volkszählung]]
+   - [[https://de.wikipedia.org/wiki/Volksz%C3%A4hlung_2011][WP: Zensus 2011]]
+   - [[https://de.wikipedia.org/wiki/Rolf_G%C3%B6ssner][WP: Rolf Gössner]]
+   - [[http://www.rolf-goessner.de/][Rolf Gössner]]
+   - [[https://de.wikipedia.org/wiki/Staatsgerichtshof_der_Freien_Hansestadt_Bremen][WP: Staatsgerichtshof Bremen]]
+   - [[https://de.wikipedia.org/wiki/Verfassungsbeschwerde][WP: Verfassungsbeschwerde]]
+   - [[https://de.wikipedia.org/wiki/Einstweilige_Verf%C3%BCgung#Einstweilige_Verf.C3.BCgung][WP: Einstweilige Verfügung]]
+   - [[https://de.wikipedia.org/wiki/Volksz%C3%A4hlungsurteil][WP: Volkszählungsurteil]]
+   - [[http://www.telemedicus.info/urteile/Datenschutzrecht/88-BVerfG-Az-1-BvR-209,-269,-362,-420,-440,-48483-Volkszaehlungsurteil.html][Volkszählungsurteil]]
+   - [[https://de.wikipedia.org/wiki/Gro%C3%9Fer_Lauschangriff][WP: Großer Lauschangriff]]
+   - [[https://de.wikipedia.org/wiki/Sabine_Leutheusser-Schnarrenberger][WP: Sabine Leutheusser-Schnarrenberger]]
+   - [[http://www.leutheusser-schnarrenberger.de/][Sabine Leutheusser-Schnarrenberger]]
+   - [[https://de.wikipedia.org/wiki/Kernbereich_privater_Lebensgestaltung][WP: Kernbereich persönlicher Lebensgestaltung]]
+   - [[https://de.wikipedia.org/wiki/Verfassungsschutz][WP: Verfassungschutz]]
+   - [[http://www.hrr-strafrecht.de/hrr/bverfg/07/1-bvr-370-07.php][Urteil über das Verfassungsschutzgesetz Nordrhein-Westfalen (Online-Durchsuchung)]]
+   - [[https://de.wikipedia.org/wiki/Online-Durchsuchung][WP: Online-Durchsuchung]]
+   - [[https://de.wikipedia.org/wiki/Computervirus][WP: Computervirus]]
+   - [[https://de.wikipedia.org/wiki/Grundrecht_auf_Gew%C3%A4hrleistung_der_Vertraulichkeit_und_Integrit%C3%A4t_informationstechnischer_Systeme][WP: Grundrecht auf Gewährleistung der Vertraulichkeit und Integrität informationstechnischer Systeme]]
+   - [[http://www.ccc.de/de/updates/2011/staatstrojaner][CCC analysiert Staatstrojaner]]
+   - [[http://www.faz.net/aktuell/chaos-computer-club-der-deutsche-staatstrojaner-wurde-geknackt-11486538.html][FAZ: Der deutsche Staatstrojaner wurde geknackt]]
+   - [[https://de.wikipedia.org/wiki/Telekommunikations%C3%BCberwachung#Quellen-Telekommunikations.C3.BCberwachung][WP: Quellen-TKÜ]]
+   - [[http://www.hrr-strafrecht.de/hrr/archiv/09-10/index.php?sz%3D8][Zur Rechtswidrigkeit der Quellen-Telekommunikationsüberwachung auf Grundlage des § 100a StPO von Buermeyer und Bäcker]]
+   - [[https://de.wikipedia.org/wiki/Landesdatenschutzgesetz][WP: Landesdatenschutzgesetz]]
+   - [[http://www.thueringen.de/datenschutz/gesetze_rechtsvorschriften/thueringen/datenschutzgesetz/][Thüringer Datenschutzgesetz]]
+   - [[https://de.wikipedia.org/wiki/Europ%C3%A4ische_Menschenrechtskonvention][WP: Europäische Menschenrechtskonvention]]
+   - [[http://dejure.org/gesetze/MRK/8.html][Artikel 8 der EMRK]]
+   - [[https://de.wikipedia.org/wiki/Richtlinie_95/46/EG_(Datenschutzrichtlinie)][WP: Richtlinie 95/46/EG (Datenschutzrichtlinie)]]
+   - [[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri%3DCELEX:31995L0046:DE:NOT][Richtlinie 95/46/EG]]
+   - [[https://www.datenschutzzentrum.de/][Unabhängiges Datenschutzzentrum für den Datenschutz Schleswig-Holstein]]
+   - [[http://curia.europa.eu/juris/liste.jsf?language%3Dde&num%3DC-518/07][Rechtssache C-518/07: Europäische Kommission gegen Bundesrepublik Deutschland]]
+   - [[http://www.thueringen.de/datenschutz/][Thüringer Datenschutzbeauftragter]]
+   - [[https://de.wikipedia.org/wiki/Silvia_Liebaug][WP: Silvia Liebaug]]
+   - [[https://de.wikipedia.org/wiki/Harald_Stauch][WP: Harald Stauch]]
+   - [[https://de.wikipedia.org/wiki/Daten][WP: Daten]]
+   - [[http://www.daten-speicherung.de/index.php/ueberwachung-fragen-und-antworten/#.E2.80.9EIch_habe_nichts_zu_verbergen..E2.80.9C][Ich habe nichts zu verbergen.]]
+   - [[http://duckduckgo.com/?q%3Dich%2Bhabe%2Bnichts%2Bzu%2Bverbergen][Suche bei DuckDuckGo nach »ich habe nichts zu verbergen«]]
+   - [[https://de.wikipedia.org/wiki/Skimming_(Betrug)][WP: Skimming]]
+   - [[http://www.taz.de/!42047/][TAZ: Verdächtige Freunde]]
+   - [[http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2611/2302][Gaydar: Facebook friendships expose sexual orientation von Jernigan und Mistree bei First Monday]]
+   - [[https://de.wikipedia.org/wiki/Enron][WP: Enron]]
+   - [[http://www.cs.cmu.edu/~enron/][Enron Email Dataset]]
+   - [[http://bailando.sims.berkeley.edu/enron_email.html][UC Berkeley Enron Email Analysis]]
+   - [[http://www.spiegel.de/netzwelt/web/0,1518,523216,00.html][Spiegel: Informatiker knacken anonymisierte Datenbank per Web-Suche]]
+   - [[http://arxiv.org/abs/cs/0610105][How To Break Anonymity of the Netflix Prize Dataset]]
+   - [[https://de.wikipedia.org/wiki/Data-Warehouse][WP: Data Warehouse]]
+   - [[https://de.wikipedia.org/wiki/Verbot_mit_Erlaubnisvorbehalt_(Datenschutz)][WP: Verbot mit Erlaubnisvorbehalt]]
+   - [[https://de.wikipedia.org/wiki/Kamera%C3%BCberwachung][WP: Kameraüberwachung]]
+   - [[http://www.googlewatchblog.de/2011/07/google-maps-nun-mit-verkehrsdaten-aus-deutschland-oesterreich-und-der-schweiz/][GoogleWatchBlog: Google Maps mit Verkehrsdaten aus Deutschland]]
+   - [[https://www.datenschmutz.de/cgi-bin/auskunft][Generator für Auskunftsersuchen]]
+   - [[http://www.deutschepost.de/dpag?tab%3D1&skin%3Dhi&check%3Dyes&lang%3Dde_DE&xmlFile%3Dlink1015587_1007][Deutsche Post Direkt - Consumer Adressen]]
+   - [[https://de.wikipedia.org/wiki/Kreditscoring][WP: Kreditscoring]]
+   - [[https://de.wikipedia.org/wiki/Handelsgesetzbuch][WP: HGB]]
+   - [[http://bundesrecht.juris.de/hgb/index.html][HGB]]
+
