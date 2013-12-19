@@ -1,0 +1,116 @@
+* Sprachkultur im neuen Jahrtausend
+  Gast: Martin 'maha' Haase
+  Wir brauchen das Studio 1, da dort mehr Platz ist. Der OKJ hat die
+  Buchung am 27.2. bei Jens bestätigt.
+
+  /wichtig/: Die Sendung beginnt diesmal schon um 16 Uhr, nicht wie
+  sonst 17 Uhr.
+
+  Intro: Etwas aus den Stoiberschen Werken. Er bietet viel Potenzial
+  für wenig Sprachkultur. :-)
+
+** Musik
+   Ich habe maha gefragt, ob er spezielle Wünsche hat. Falls nein,
+   sollten wir die Musik vom letzten Mal wieder aufarbeiten.
+
+** Sprachkultur im 21. Jahrhundert und der digitalen Welt
+   - Wandel in der Anrede in E-Mails/Blogs, ... und Briefen, Gesprächen,
+     Ist uns der Anstand abhanden gekommen? Sind wir jetzt alle (Du-)Freunde?
+
+   - Situation: Primitivsätze, einfache Wortwahl (tun, machen),
+     Anglizismen, Fehler (als/wie, Imperativ, ABM-Maßnahme,
+     effektiv/effizient), Abkürzungen (k = okay, HDGDL), Verkürzungen
+     (weglassen von Artikeln oder Verben), klassische Tippfehler,
+     Ordinalzahlen (Halbzeit 2), Groß-/Kleinschreibung, Minus/Bindestrich
+
+   - mögliche Ursachen:
+     ** technische Beschränkungen **
+     - historische softwaretechnische Beschränkungen, ASCII
+     - technische Beschränkungen, SMS
+     - mangelhafte Unterstützung in der Software, Rechtschreibprüfung im
+       Browser, obwohl Foren-Beiträge & Co. daran verfasst werden,
+       Grammatikprüfung
+
+     ** passiver gesellschaftlicher Wandel **
+     - geringe Kommunikationszeiten (RTT),
+     - weniger Zeit für Schreiben (Verfassen der Texte)
+     - Neue Deutsche Rechtschreibung
+     - mangelnde Nutzung von technischen Lösungen, Benutzer ist oft nicht
+       bekannt, dass es eine Rechtschreibprüfung gibt
+     - Globalisierung, stärkere Durchmischung/stärkerer Kontakt mit
+       anderen Sprachen
+
+     ** selbstbestimmter gesellschaftlicher Wandel **
+     - Werbung, teilweise wirkt es so, dass die Leute wirklich keine
+       Ahnung von Sprache haben "Soo! Muss Technik", teilweise will man die
+       Norm verletzen, um sich abzuheben; Vorbildcharakter wird vergessen;
+       Leute werden irritiert
+     - Arroganz einiger Leute, kein "gewöhnliches" Deutsch zu sprechen, um
+       sich abzuheben/nicht verstanden werden (Buzzwords)
+     - mangelhafte Bildung, mangelhafter Wissensstand der Gesellschaft
+
+   - Ist die Situation im wahren Leben wie in der digitalen Welt? Wer
+     beeinflusst wen? Zum Guten oder zum Schlechten?
+
+   - Mangelt es den Leuten am Interesse für Sprache?
+
+
+** Shownotes
+   - [[https://de.wikipedia.org/wiki/John_F._Kennedy][John F. Kennedy]]
+   - [[http://www.youtube.com/watch?v%3DXjHcNhcahv4][John F. Kennedy - Ich bin ein Berliner]]
+   - [[https://de.wikipedia.org/wiki/Ernst_Reuter][Ernst Reuter]]
+   - [[http://www.youtube.com/watch?v%3D2vCxoJNka9E][Ernst Reuter - Schaut auf diese Stadt]]
+   - [[https://de.wikipedia.org/wiki/Rosa_Luxemburg][Rosa Luxemburg]]
+   - [[https://de.wikipedia.org/wiki/Joachim_Gauck][Joachim Gauck]]
+   - [[http://www.youtube.com/watch?v%3DuSXhMu2Htrk][Joachim Gauck - 3. Berliner Rede zur Freiheit am Brandenburger Tor]]
+   - [[https://de.wikipedia.org/wiki/Gregor_Gysi][Gregor Gysi]]
+   - [[http://www.youtube.com/results?search_type%3Dvideos&search_query%3Dgregor%2Bgysi][Verschiedene Reden von Gregor Gysi bei YouTube]]
+   - [[http://www.spiegel.de/international/germany/0,1518,818683,00.html][Artikel bei Spiegel International zu Martin Haase]]
+   - [[http://neusprech.org/][Neusprech-Blog]]
+   - [[https://twitter.com/#!/neusprechblog][@Neusprechblog bei Twitter]]
+   - [[https://plus.google.com/103984520367568792468/about][Kai Biermann]]
+   - [[http://www.grimme-institut.de/html/index.php?id%3D1200][Preisträger des Grimme Online Award 2011]]
+   - [[http://www.grimme-institut.de/html/index.php?id%3D163#c8][Intel Publikums-Preis 2005 des Grimme Online Award]]
+   - [[http://media.ccc.de/search?q%3Dhaase&cmd%3DSearch%21][Vorträge von maha bei CCC-Veranstaltungen]]
+   - [[http://www.maha-online.de/blog/2011/03/15/merkel-zu-fukushima/][Merkel zu Fukushima auf maha-online.de]]
+   - [[http://www.maha-online.de/blog/2012/01/04/das-wulff-interview/][Das Wulff-Interview auf maha-online.de]]
+   - [[http://www.maha-online.de/blog/2012/02/17/der-wulff-rucktritt/][Der Wulff-Rücktritt auf maha-online.de]]
+   - [[https://de.wikipedia.org/wiki/Victor_Klemperer][Victor Klemperer]]
+   - [[https://de.wikipedia.org/wiki/Hendiadyoin][Hendiadyoin]]
+   - [[https://de.wikipedia.org/wiki/Oliver_Lepsius][Oliver Lepsius]]
+   - [[http://d-nb.info/1013183495][Inszenierung als Beruf: der Fall Guttenberg]]
+   - [[https://de.wikipedia.org/wiki/Nicolas_Sarkozi][Nicolas Sarkozy]]
+   - [[https://de.wikipedia.org/wiki/Metapher][Metapher]]
+   - [[https://de.wikipedia.org/wiki/George_Orwell][George Orwell]]
+   - [[https://de.wikipedia.org/wiki/1984_(Roman)][1984]]
+   - [[http://www.mtholyoke.edu/acad/intrel/orwell46.htm][Politics and the English Language]]
+   - [[https://de.wikipedia.org/wiki/Edward_Bernays][Edward Bernays]]
+   - [[http://www.historyisaweapon.com/defcon1/bernprop.html][Propaganda von Edward Bernays (1928)]]
+   - [[https://de.wikipedia.org/wiki/Walter_Lippmann][Walter Lippmann]]
+   - [[http://www.gutenberg.org/etext/6456][Public Opinion von Walter Lippmann (1922)]]
+   - [[https://de.wikipedia.org/wiki/Noam_Chomsky][Noam Chomsky]]
+   - [[https://de.wikipedia.org/wiki/Free_Rainer_%E2%80%93_Dein_Fernseher_l%C3%BCgt][Free Rainer – Dein Fernseher lügt]]
+   - [[https://de.wikipedia.org/wiki/Wag_the_Dog_%E2%80%93_Wenn_der_Schwanz_mit_dem_Hund_wedelt][Wag the dog – Wenn der Schwanz mit dem Hund wedelt]]
+   - [[https://en.wikipedia.org/wiki/Echo_chamber_%28media%29][WP (engl.) echo chamber]]
+   - [[https://de.wikipedia.org/wiki/Inversion][Inversion]]
+   - [[https://de.wikipedia.org/wiki/Konjunktion][Konjunktion]]
+   - [[http://books.google.com/ngrams][Google Ngram Viewer]]
+   - [[https://de.wikipedia.org/wiki/Computerlinguistik][Computerlinguistik]]
+   - [[http://julielab.de/][Computerliguistik an der FSU Jena]]
+   - [[https://de.wikipedia.org/wiki/Sprachsynthese][Sprachsynthese]]
+   - [[http://neusprech.org/studienbeitraege/][Neusprech: Studienbeiträge]]
+   - [[http://www.che.de/][Centrum für Hochschulentwicklung (CHE)]]
+   - [[https://de.wikipedia.org/wiki/Wolfgang_Schäuble][Wolfgang Schäuble]]
+   - [[http://events.ccc.de/congress/2011/Fahrplan/events/4781.en.html][Deceiving Authorship Detection im 28C3-Fahrplan]], [[http://media.ccc.de/browse/congress/2011/28c3-4781-en-deceiving_authorship_detection.html][Video zum Vortrag]]
+   - [[https://de.wikipedia.org/wiki/Stilkunde][Stilkunde]]
+   - [[https://de.wikipedia.org/wiki/Forensische_Linguistik][Forensische Linguistik]], [[https://en.wikipedia.org/wiki/Forensic_linguistics][Forensic Linguistics]]
+   - [[http://abgeordnetenwatch.de/][Abgeordnetenwatch]]
+   - [[https://de.wikipedia.org/wiki/Pronomen][Pronomen]]
+   - [[https://www.ccc.de/][CCC]]
+   - [[https://blog.fefe.de][Fefes Blog]]
+   - [[https://twitter.com/peteraltmaier][Peter Altmaier auf Twitter]]
+   - [[http://www.kas.de/wf/de/17.48852/][Demokratiekongress 2.0 der Konrad-Adenaur-Stiftung]]
+   - [[https://twitter.com/petertauber][Peter Tauber auf Twitter]]
+   - [[https://twitter.com/mariovoigt][Mario Voigt auf Twitter]]
+
+
