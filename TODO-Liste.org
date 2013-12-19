@@ -1,0 +1,31 @@
+* TODO-Liste und allgemeine Planungen für den Datenkanal
+
+** TODO Webseite [60%]
+   Die Webseite http://datenkanal.org/ wurde von Thomas registriert
+   und die Inhalte liegen dort.
+   - [ ] Flattr
+	 Es gibt auf der Webseite einen Flattr-Button. Der wird automatisch
+	 unter jedem Beitrag eingebunden. Bislang zieht der das JavaScript
+	 von Flattr.com. Wir müssen das so einstellen, dass das lokal liegt.
+   - [X] Fehlermeldungen
+	 Auf dem Server erscheinen noch Fehlermeldungen: »configured
+	 request variable name length limit exceeded - dropped variable«
+         D.h., in /var/log/syslog erscheint sowas:
+         Aug 13 10:07:12 donar suhosin[21137]: ALERT - configured request variable name length limit exceeded - dropped variable '/plugin/fetchAvatar_73b2715630fbb1da7d1981bea6e1e4b2http://dirk_deimeke_net/_0b290be95d6c4291c1404e64cc766129_5cfde094fe582e5d5ea2d577f495c109Dirk_Deimeke_34' (attacker '95.108.158.236', file '/srv/datenkanal/web/html/index.php')
+   - [ ] Kaputte RSS1- und ATOM-Feeds
+	 Die RSS1- und ATOM-Feeds sind nicht korrekt.
+   - [X] Rewrite für alte DKs
+   - [X] webmaster@ sollte ein Alias für info@ werden
+** TODO Jingle
+   - [[http://www.youtube.com/watch%3Fv%3DFxm0TN5WDQI][Jerry Lewis mit Typewriter]]
+   - An das Ende des Jingle könnte man eine computergenerierte Stimme
+     packen. Die sagt: »Datenkanal geöffnet« und am Ende der Sendung
+     könnte ebendiese dann »Datenkanal geschlossen« sagen.
+   - adi hat angeboten, ein Jingle zu produzieren.
+
+** Termine für Ankündigungen
+    Eventuell kann [[http://www.grical.org/][Grical]] bei der Auswahl helfen. Wenn wir auch auf
+    überregionale Veranstaltungen eingehen wollen, dann können wir
+    auch http://lwn.net/Calendar/ und http://lwn.net/Articles/471211/
+    nutzen. Daneben sollten wir Webseiten der lokalen Gruppen ([[http://lug-jena.de/][LUG
+    Jena]], [[http://hackspace-jena.de/][Hackspace]], [[http://www.freifunk-jena.de/][Freifunk Jena]] und [[http://www.maschinenraum.tk/][M18]]) abgrasen.

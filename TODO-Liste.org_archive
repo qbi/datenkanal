@@ -1,0 +1,213 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /home/jens/Projekte/datenkanal/TODO-Liste.org
+* DONE Namenswahl
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2012-08-12 So 23:07
+  :ARCHIVE_FILE: ~/Projekte/datenkanal/TODO-Liste.org
+  :ARCHIVE_OLPATH: -Liste und allgemeine Planungen für den Datenkanal
+  :ARCHIVE_CATEGORY: TODO-Liste
+  :ARCHIVE_TODO: DONE
+  :END:
+  Zur Auswahl stehen bisher:
+  - Datenradio
+  - Datenkanal
+  *Datenkanal* scheint bislang besser zu gefallen. Daher wird das der
+  Name werden.
+
+* DONE E-Mail-Adresse
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2012-08-12 So 23:07
+  :ARCHIVE_FILE: ~/Projekte/datenkanal/TODO-Liste.org
+  :ARCHIVE_OLPATH: -Liste und allgemeine Planungen für den Datenkanal
+  :ARCHIVE_CATEGORY: TODO-Liste
+  :ARCHIVE_TODO: DONE
+  :END:
+  Es sind derzeit die E-Mail-Adressen
+  - <webmaster@datenkanal.org>: Weiterleitung an Jens und Jörg
+  - <twitter@datenkanal.org>: Weiterleitung an Jens eingerichtet.
+  - <info@datenkanal.org>: geht an Jens und Jörg
+
+* DONE Jabber Multi-User-Chat
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2012-08-12 So 23:07
+  :ARCHIVE_FILE: ~/Projekte/datenkanal/TODO-Liste.org
+  :ARCHIVE_OLPATH: -Liste und allgemeine Planungen für den Datenkanal
+  :ARCHIVE_CATEGORY: TODO-Liste
+  :ARCHIVE_TODO: DONE
+  :END:
+  Jens befindet sich bereits im Channel
+  <datenkanal@chat.lug-jena.de>. Dieser Kanal sollte dann während der
+  Sendung zur Kommunikation mit den Hörern benutzt werden.
+
+  Dazu wäre es sehr sinnvoll, einen festen Sendetermin zu haben oder Thomas
+  rechtzeitig über Termine zu informieren, damit Wartungsarbeiten am Server
+  nicht genau zur Sendezeit den Jabber-Server umreißen. (Das passiert ohnehin
+  so gut wie nie, aber wenn die Öffentlichkeit aufgefordert wird, den Server
+  zu nutzen, ist das noch mal was anderes.)
+
+  Wir sollten unbedingt auf der Seite erklären, welche
+  Jabber-Software existiert und wie man sich verbinden kann. Des
+  Weiteren wäre ein Webclient sehr sinnvoll.
+  - 桜 schlug hierzu https://mini.jappix.com/ vor. Damit hat man ein
+    kleines Chatfenster, dass dem Google Chat stark ähnelt.
+  - Jörg fand noch http://jwc.i-pobox.net/. Das erfordert eine
+    Anmeldung.
+  - Der [[https://www.c3d2.de/][C3D2]] benutzt [[http://candy-chat.github.com/candy/][Candy]]. Das scheint von der Konfiguration wieder
+    etwas komplexer zu sein.
+
+* Twitter und „social media“
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2012-08-12 So 23:07
+  :ARCHIVE_FILE: ~/Projekte/datenkanal/TODO-Liste.org
+  :ARCHIVE_OLPATH: -Liste und allgemeine Planungen für den Datenkanal
+  :ARCHIVE_CATEGORY: TODO-Liste
+  :END:
+** DONE Twitter
+   Jens hat schonmal vorbeugend ein Twitter-Konto [[https://www.twitter.com/datenkanal][@datenkanal]]
+   angelegt. Darüber könnte man Ankündigungen zur Sendung
+   verbreiten. Außerdem ist das ein weiterer Kanal, um während der
+   Sendung mit Nutzern in KOntakt zu kommen. Nach Jens' Eindruck
+   kommen bei häufiger gehörten Sendungen einige Kommentare
+   zusammen. Wichtig wäre hier, die entsprechenden Follower zu finden.
+
+** DONE Google+
+   Eine Seite bei [[https://plus.google.com/][Google+]] könnte auch sinnvoll sein. Bei G+ scheint
+   die Geek-/Nerdquote höher zu sein und evtl. kann man auf diese
+   Weise Hörer anziehen.
+
+** DONE Facebook-Seite
+   Jens würde aus diversen Gründen auf eine Facebook-Seite verzichten
+   wollen.
+
+* Sendetermine und -länge
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2012-08-12 So 23:18
+  :ARCHIVE_FILE: ~/Projekte/datenkanal/TODO-Liste.org
+  :ARCHIVE_OLPATH: -Liste und allgemeine Planungen für den Datenkanal
+  :ARCHIVE_CATEGORY: TODO-Liste
+  :END:
+  Vorerst werden die Termine ad hoc festgelegt. Wobei der zweite
+  Dienstag im Monat durch aus sinnvoll ist. Wir sollten das als
+  festen Termin anstreben.
+
+  Es hat sich gezeigt, dass eine Stunde zu kurz ist. Wir haben meist
+  Stoff, der in längere Sendezeiten passt. Daher werden wir am dem
+  vierten Datenkanal mit zwei Stunden experimentieren.
+
+  Die Sendungen werden auch vom OKJ ein weiteres Mal ausgestrahlt. Wir
+  sollten vorher klären, wann die Wiederholung erfolgt und den Termin
+  auch in der Sendung und auf der Webseite mit ankündigen. Am Besten wäre
+  Jörgs Meinung nach eine Wiederholung nach einer Woche oder mehr. Eine
+  Wiederholung innerhalb der nächsten Tage erscheint wenig sinnvoll, so
+  mit dem Gedanken, dass Leute zum Beispiel länger im Urlaub sind.
+
+  Jens hat beim OKJ angefragt, ob wir einen festen Sendetermin zu
+  jedem zweiten Dienstag im Monat um 17 Uhr bekommen können. Das geht
+  nicht. Wir müssen die Termine immer individuell festlegen.
+* Anforderungen an Software für Webseite
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2012-08-12 So 23:19
+  :ARCHIVE_FILE: ~/Projekte/datenkanal/TODO-Liste.org
+  :ARCHIVE_OLPATH: -Liste und allgemeine Planungen für den Datenkanal/Webseite [50%]
+  :ARCHIVE_CATEGORY: TODO-Liste
+  :END:
+  Jens ist die Programmiersprache für die Seite so ziemlich
+  egal. Wichtig wäre, dass der Aufwand für uns und für Thomas
+  vergleichsweise gering ist.
+
+  Jens will Beiträge (zur Not auch im voraus) verfassen können. Die
+  Software soll sich automatisiert bei diversen Seiten melden und
+  Bescheid geben, dass es was Neues gibt. Daneben muss es einen
+  RSS-Feed geben. Wobei es egal ist, ob nur RSS oder ATOM oder
+  irgendwas dazwischen. Weiterhin wäre egal, ob es einen HTML-Editor
+  gibt oder nicht. Jens verfasst eh die meisten HTML-Sachen direkt.
+
+  Eine Möglichkeit, Kommentare abzugeben, ist jedoch wichtig. Denn
+  über Kommentare kommt Interaktion ins Spiel. Daher findet Jens das
+  wichtig.
+  - [X] Webseite datenkanal.org reservieren,
+  - [X] Thomas befragen, ob Inhalte auf seinem Server liegen können
+  - [X] Entscheidung für eine bestimmte Software treffen.
+  - [X] Software installieren
+* Mitschnitte
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2012-08-12 So 23:19
+  :ARCHIVE_FILE: ~/Projekte/datenkanal/TODO-Liste.org
+  :ARCHIVE_OLPATH: -Liste und allgemeine Planungen für den Datenkanal
+  :ARCHIVE_CATEGORY: TODO-Liste
+  :END:
+  Zu jeder Sendung soll der Mitschnitt im Internet veröffentlicht
+  werden. Dabei gibt es das Problem mit der GEMA. Effektiv muss
+  sämtliche Musik aus dem Mitschnitt entfernt werden, damit man keine
+  Probleme mit der GEMA bekommt.
+
+  - [X] Wir müssen beim OKJ fragen, ob die Aufzeichnung der Sendung auch
+  mit dem Programm am Arbeitsplatz möglich ist und ob man die
+  verschiedenen Eingänge auf einzelne Spuren legen kann. Somit
+  könnten wir ganz leicht die CD‐ oder Computer‐Spur löschen und
+  hätten einen fertigen Mitschnitt.
+
+  - [X] Alternativ könnten wir fragen, ob es möglich ist, während der
+  Sendung Markierungen in oder neben der Aufnahme zu platzieren, die
+  uns eine Bearbeitung mit zum Beispiel sox erleichtern würden, so
+  dass wir alle Musik automatisch aus dem Mitschnitt entfernen
+  könnten.
+  Jens hat die Dorit vom OKJ zu beiden Punkten befragt und bekam von
+  Torsten Cott folgenden Antwort:
+  »Das mit der Sprache und der Musik ist nicht so einfach. In der
+  Aufzeichnung könne wir die Kanäle nicht trennen, weil der Hörer ja
+  sonst keinen Stereoempfang hat. Marker lassen sich bei unserem
+  regulären Aufzeichnungstool auch nicht setzen. Wir haben nur die
+  Möglichkeit, über eine Air-Check Funktion die Wortbeiträge auf eine
+  Kassette zu überspielen. Dann müsste das wieder digitalisiert
+  werden und dann wären nur die Wortbeiträge, die in die Mikros
+  gesprochen werden aufgezeichnet. Es fehlen dann aber die
+  Vorproduzierten Beiträge, weil der Impuls für die Aufzeichnung von
+  den Mikro-Fadern am Mischpult ausgeht. Das alles ist ziemlich
+  umständlich. Einfacher ist, den Beitrag mit Amplitude zu
+  bearbeiten. Das funktioniert relativ gut und hat einen Aufwand,
+  wenn man eingespielt ist, von etwa 20 Minuten pro Sendestunde.«
+
+** Format
+   Wollen wir ggf. andere Audioformate anbieten? Ich hörte devradio
+   203 und da meinte Tim Pritlove, dass MPEG4 Audio sinnvoll ist
+   bzw. auch das andere Kompression sinnvoll ist.
+
+* Musik zur Sendung
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2012-08-12 So 23:20
+  :ARCHIVE_FILE: ~/Projekte/datenkanal/TODO-Liste.org
+  :ARCHIVE_OLPATH: -Liste und allgemeine Planungen für den Datenkanal
+  :ARCHIVE_CATEGORY: TODO-Liste
+  :END:
+  CC-lizensierte Musik findet man hier:
+  - [[http://www.jamendo.com/][Jamendo]]
+
+  Jens hatte die Idee, zu jeder Sendung ein Genre/einen Künstler zu
+  spielen. Dorit vom OKJ fand dies nicht so toll, da u.U. Hörer
+  abgeschreckt werden können, weil die die Musik nicht mögen.
+
+ - [X] Wir sollten noch mal genau wegen der GEMA-Regelung fragen, denn in
+   der Nutzungsordnung steht unter Punkt 21: „Der Anmeldung ist […]
+   eine Erklärung zur Übernahme der GEMA/GVL-Gebühren beizufügen.“
+       Jens hat Torsten Cott eine E-Mail dazu geschrieben.
+       Antwort: »das sind zum Teil noch Überreste aus grauer
+       Vorzeit. Ich sehe, ich muss die Nutzerordnung mal
+       überarbeiten. Also: Das war früher mal so. heute ist die
+       Freistellungserklärung von Ansprüche Dritter und die Übernahme der
+       Sendeverantwortung in die Sendeanmeldung aufgenommen. Die
+       GEMA/GVL-Problematik ist keine, weil die Gebühren in einem
+       Pauschalbetrag abgegolten werden. D.h. Sie müssen sich nicht extra
+       kümmern.«
+
+
+
+
+
+
+
+
+
+
