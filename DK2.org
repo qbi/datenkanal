@@ -1,0 +1,85 @@
+* Finanzierung von FLOSS-Projekten
+  Sendetermin: 14. Februar 2012 ab 17 Uhr (bestätigt vom OKJ)
+** Inhalte
+    1. klassische Spenden, regelmäßig, ohne Anlass;
+      - oft für Projekte, an die ein Verein angeschlossen ist (Debian,
+        Wikipedia, GnuCash), aber auch an einzelne Entwickler,
+      - Unterstützung des VIM-Entwicklers als sein Einkommen (bis 2006)
+        <http://www.vim.org/sponsor/index.php>, Spenden, um Bugfixes und
+        Feature-Erweiterungen zu beeinflussen/darüber abzustimmen
+      - Sachspenden, z. B. Hardware, Netzwerkanschluss
+      - Tor mit vielen Privatpersonen und Firmen, die das eigentliche
+        Netzwerk erst aufbauen
+
+    2. dauerhafte/langfristige Förderung durch andere Organisationen
+      - sehr häufig sind es Universitäten, die materielle Förderungen
+        stellen, z. B. Spiegelserver
+      - OpenStreetmap hatte 2010 große Spende von RZ in England, als die LUG
+        auch wollte :)
+      - Fußzeile auf <http://kernel.org/>, ISC, HP, Google, Umeå Universitet
+      - CTAN-Server wird von Dante betrieben, Dante bezahlt auch konkrete
+        Programmierleistungen für TeX-Entwicklungen
+      - Google Summer of Code, 3 Monate, $5000 pro Student, $500 für
+        Mentor, 2011 waren es 1115 Studenten
+
+    3. Spendenaufrufe, Einmalförderung, immer verbunden mit einem konkreten
+      Ziel
+
+      Beispiele:
+      - [[http://raphaelhertzog.com/2011/11/15/20-things-to-learn-with-the-free-chapter-of-the-debian-administrators-handbook/][Debian Administrator’s Handbook]]
+      - Anzeige zum Release von Firefox 1.0 in der NY Times;
+        Ziel: 10 Tage, 2500 Leute, á $30 ($75.000)
+        Ergebnis: 3 Tage, $100.000; 10 Tage, 10.000 Leute, $250.000 ($25 p.P.)
+        [[http://news.cnet.com/Firefox-donations-hit-250%2C000/2100-1032_3-5434911.html]]
+      - [[http://de.wikipedia.org/wiki/Diaspora_(Software)#Geschichte][Diaspora]],
+        Ergebnis: 12 Tage, $200.642, 6479 Leute ($31 p.P.)
+      - [[http://wikimediafoundation.org/wiki/Fundraising_reports][Wikimedia-Spendensammlung]],
+        Ergebnise 2009/10: 67 Tage, $8.691.995, 243.688 Leute ($36 p.P.)
+        Ergebnise 2010/11: 50 Tage, $15.026.289, 527.583 Leute ($28 p.P.)
+
+    4. normale Bezahlung/Abonnement
+      - [[http://lwn.net/subscribe/Info][LWN]]: $7--$50/Monat,
+        $50-Mitgliedschaft wurde auf Wunsch der Benutzer eingeführt
+
+    5. Flattr
+      Zu den Kosten bei Flattr: [[https://wiegold.wordpress.com/2011/12/27/ausgeflattrt-nur-was-fur-amateure-oder-grosverdiener/][Ausgeflattrt: Nur was für Amateure – oder Großverdiener]]
+
+    6. Provisionen, indirekte Förderung durch Dritte
+      - Ubuntu und [[http://lwn.net/Articles/471484/][Linux Mint]]
+        haben bei Banshee ihr Konto als Vermittler eingetragen und
+        bekommen für jeden Einkauf eine Provision von Amazon
+      - [[http://www.lug-jena.de/oreilly/][Amazon-Links]] auf der LUG-Seite
+      - [[http://gwei.org/][GWEI - Google Will Eat Itself]] :),
+        819 Aktien, $405.413,19, seit 2005
+
+*** Zeitplan:
+    - 17:00 Uhr: 1. klassische Spenden, 2. Förderung durch Dritte  -- 10 Minuten
+    - 17:10 Uhr: Musik                                             --  4 Minuten
+    - 17:14 Uhr: 3. Spendenaufrufe                                 --  8 Minuten
+    - 17:22 Uhr: Interview                                         -- 20 Minuten
+    - 17:42 Uhr: 4. Abonnement, 5. Flattr                          --  7 Minuten
+    - 17:49 Uhr: Musik                                             --  4 Minuten
+    - 17:53 Uhr: 6. Provisionen                                    --  3 Minuten
+    - 17:56 Uhr: Ankündigungen                                     --  3 Minuten
+    - 17:59 Uhr: Musik fürs Ende                                   --  1 Minuten
+
+*** DONE Interview
+    Aus meiner Sicht bietet sich das Thema gut an, um auch mit anderen
+    ins Gespräch zu kommen. Insbesondere Michael Prokop, Projektleiter
+    von grml, wäre ein guter Gesprächspartner. Zum einen kennt Mika
+    die Seite als Projektleiter und zum anderen hat er ein Buch dazu
+    geschrieben. Dort hat er sich u.a. mit dem Aspekt der Finanzierung
+    auseinander gesetzt.
+    Jens hat Mika mal befragt. Wahrscheinlich werden wir uns am
+    25.1. unterhalten.
+
+*** Ankündigungen
+    - 5.--7. März: [[http://conferences.yapceurope.org/gpw2012/][14. Deutscher Perl-Workshop in Erlangen]]
+    - 6.--10. März: [[http://www.cebit.de/home][CeBIT]]
+    - 7.--15. März: [[https://us.pycon.org/2012/][PyCon in Santa Clara]]
+
+
+** Musik
+   - [[http://www.jamendo.com/de/track/34581][Cat's Bite von Boom Boom Beckett]]
+   - [[http://www.jamendo.com/de/track/34578][Vélos von Boom Boom Beckett]]
+   - [[http://www.jamendo.com/de/track/40303][Ianus Wüstenritt von Melophon]]
