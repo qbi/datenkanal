@@ -33,3 +33,8 @@
   - Ablösung irrational handelnder Radar-Operator durch rational handelnden Agenten
   - alle an die Wallstreet - heute alle in der Versicherungswirtschaft:
   - Rolle von Big Data: Gesetz der grossen Zahlen.
+** BYOD
+  - Bring your own device (BYOD)
+  - Fuß-Fessel - im kommenden Internet der Dinge wird das noch spannender
+  - Trennlinie zwischen Arbeit und Leben  verschwindet 
+  - Suggestion: fur immer im flow (work hard play hard)
