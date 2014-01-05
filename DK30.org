@@ -21,3 +21,10 @@
   - Big-Data.
     + Beispiel: vorhergesagte Schwangerschaft.
     + Müll-Firma weiss was ich konsumiert habe (RFID)
+** Schutzlücke
+  - Märchen von der „Schutzlücke“ = [[http://youtu.be/DIREm3eWa5A][Enzensberger: „Postdemokratische Zustände“]]
+  - Wer nichts zu verbergen hat, hat auch nichts zu befürchten (ungleiche Informations-Potentiale: einzelner Nutzer, intransparenter Staat)
+  - Denkverbote aufheben (Beispiel Steuer - Spende Sloterdijk)
+  - Internet der Dinge: Samsung baut in jedes Haushaltsgerät Android ein.
+  - Heizung und Beleuchtung steuern, intelligente Stromzähler? 
+  - Schufa + HPI: Daten für Scooring bei FB?!
