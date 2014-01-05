@@ -28,3 +28,8 @@
   - Internet der Dinge: Samsung baut in jedes Haushaltsgerät Android ein.
   - Heizung und Beleuchtung steuern, intelligente Stromzähler? 
   - Schufa + HPI: Daten für Scooring bei FB?!
+** Egoistisches Spiel des Lebens
+  - wie alles begann: egoistisch handeln, bringt mathematisch Vorteile: es ist vernünftig, egoistisch zu sein.
+  - Ablösung irrational handelnder Radar-Operator durch rational handelnden Agenten
+  - alle an die Wallstreet - heute alle in der Versicherungswirtschaft:
+  - Rolle von Big Data: Gesetz der grossen Zahlen.
