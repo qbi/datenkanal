@@ -2,3 +2,9 @@
 
   - Termin: 21.1.2014 15--17 Uhr
   - [[http://www.radio-okj.de/][Radio OKJ]], Helmboldstrasse, Jena-Ost
+
+** Motivation
+  - Warum diese Sendung?
+    + gesamtes Leben ist von IT durchdrungen
+    + Verbraucher-Schutz ist mehr als Fahrrad-Helm oder Hammelfleisch.
+    + [[http://youtu.be/vkuiUjs6P_U][YP: Schirrmacher „Information als Fetisch“]]
