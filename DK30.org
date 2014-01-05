@@ -12,3 +12,12 @@
 ** Absolutismus
   - Vereinzelung der  Nutzer, weil diese Daten ein Schatz sind, der die Geschäftsgrundlage darstellt.
   - Zustände sind so krass, dass sie sich nicht mehr kabarettistisch zuspitzen lassen.
+
+** Algorithmen
+  - Algorithmen schreiben Leben vor:
+    + Man glaubt, was bei Wikipedia steht
+    + Man glaubt den Google-Suchergebnissen
+    + Virenscanner drängelt sich überall rein
+  - Big-Data.
+    + Beispiel: vorhergesagte Schwangerschaft.
+    + Müll-Firma weiss was ich konsumiert habe (RFID)
