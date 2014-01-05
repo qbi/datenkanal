@@ -40,3 +40,53 @@
   - Suggestion: fur immer im flow (work hard play hard)
 ** Facebook und der Tod
   - [[http://sz-magazin.sueddeutsche.de/texte/anzeigen/41337/Gefaellt-mir-nicht-mehr][Gefällt mir nicht mehr Was lernt man, wenn man sich bei Facebook abmelden will? Vor allem eins: Facebook versucht das zu verhindern.]]
+
+-----
+
+- BMW ConnectedDrive
+Big Bayer is watching you
+Autos senden Fahrerprofile - über die Zukunft der Mobilität:
+Der gläserne Autofahrer
+Maut-Daten zur Verbrechens-Prävention
+
+- Tracking Dots: Jeder Kopierer legt Ser# + Datum + Uhrzeit auf jeder Kopie an ((gelb) 
+Kopierer haben HDD, die alle Daten zwischen speichern !
+- Geldscheine: Serien # bei der Aussage am ATM oder Schalter einen account zugeordnet.
+GEZ. opt-out, Kennung, erfassbar, wer mit wem wohnt etc. Privatsphäre
+
+Beispiele bei FB: Frau motze gegen Blitzer, darauf hin droht die Behörde mit Idioten Test !
+
+Trapwire: verknüpft Überwachungs-Kameras mit Datenbanken und scannt damit nach Verdächtigen, 
+Maut-Brücken, Gesundheitskarte, ePerso - alles miteinander verknüpfter.
+Wer meint, es sind zu viele Daten oder Schrott, der irrt, 
+Algorithmen sind sehr leistungsfähig Speicher sind riesig (SSD) sieh high -frequency-trading.
+
+siehe auch : Arbeitsfrei - Eine Entdeckungsreise zu den Maschinen, die uns ersetzen werden.
+Der neue Kollege macht nur Überstunden 
+Überleitung zu „narrativ science“. Firma programmiert Algorithmen,die Zeitungsartikel schreiben.
+
+- Self Tracking
+Pflaster misst Fitnesswerte
+Zahnbürste berichtet dem Zahnarzt
+Krankenkassen: Druck auf psychisch Kranke wächst
+www.stoppt-die-e-card.de
+Juli Zeh "Corpus Delicti Ein Prozess "
+
+- Neuer Bachelor IT-Sicherheit
+
+- Wie Snowden den Cloud-Sicherheitsmarkt beeinflusst
+Identitätsmanagement: Wie viel Zugriffsrechte sind nötig?
+
+- NSA nutzt Cookies zur Überwachung
+- CSC in alle großen IT-Vorhaben eingebunden: De-Mail, nPa, ePa, Staatstrojaner, Waffenregister, E-Gerichtsakte, E-Strafregister 
+- Sascha Lobo über den Weg in den Kontrollstaat 
+
+- Thema Virtuelle Währung
+- Abschaffung des Bargeldes ?
+Bitcoin erreicht neuen Höchstwert von 600 Dollar
+
+Personen, die diesen Beitrag gut fanden, finden vielleicht auch die folgenden Beiträge gut ...
+
+Buch „WebAttack“
+http://www.heise.de/tp/artikel/40/40298/1.html
+Ende 13-12-22
