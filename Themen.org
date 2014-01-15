@@ -20,6 +20,8 @@
 ** Krypto (Theorie und Praxis)
 *** TrueCrypt
     Wie funktioniert das und was ist das?
+*** Full Disk Encryption
+  Was ist das, welche Algorithmen, Programme etc.
 ** Überwachungskameras in Jena und rechtl. Situation
 
 ** Freifunk
