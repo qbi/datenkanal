@@ -138,3 +138,8 @@
 
 
 ** Jabber/XMPP
+
+** HTTP
+   Was ist das Hypertext Transfer Protocol?
+
+** HTTP/2
